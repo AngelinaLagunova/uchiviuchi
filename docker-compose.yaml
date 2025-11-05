@@ -5,7 +5,7 @@ services:
     build: ./backend
     container_name: django_api
     ports:
-      - "8000:8000"  # подключаем порт к хосту
+      - "8000:8000"
     environment:
       - DEBUG=0
     restart: unless-stopped
@@ -13,8 +13,6 @@ services:
   frontend:
     build: ./frontend
     container_name: react_app
-    ports:
-      - "80:80"
     restart: unless-stopped
 
   nginx:
