@@ -1,0 +1,154 @@
+
+
+.testVocabPage {
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr;
+    margin-top:2vw;
+
+}
+
+.testVocab {
+    display: grid;
+}
+
+.testPict img {
+    width:20vw;
+    border: 1vw solid #b5f4e1;
+    border-radius: 2vw;
+}
+
+.testPict {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    font-size:3vw;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    width:60vw;
+    margin: auto;
+}
+
+.testVariants .checkTestSetting{
+    margin:0vw;
+    height:7vw;
+    font-size:2vw;
+}
+
+.testRadio {
+    /* background: #b5f4e1; */
+    /* width:200px; */
+    font-size:2vw;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    align-items: center;
+    
+
+}
+
+.testRadio{
+    margin: 2vw;
+}
+
+.testRadio input[type=radio] {
+    border: 0px;
+    width: 3vw;
+    height: 3vw;
+    accent-color: black;
+}
+
+.testVariants{
+    margin:2vw;
+}
+
+.testVocabPage .button{
+    height: 3vw;
+    width:100%;
+    margin: auto;
+}
+
+.arrowLeftTest img{
+    margin-top:15vw;
+    width:6vw;
+    margin-left:0vw;
+}
+
+.arrowRightTest img{
+    margin-top:15vw;
+    width:6vw;
+    margin-left:0vw;
+}
+
+.rightAnswer .button{
+    background: linear-gradient(90deg, green 0%, green 100%);
+}
+
+.wrongAnswer .button{
+    background: linear-gradient(90deg, red 0%, red 100%);
+}
+
+
+.results {
+    font-size: 3vw;
+    margin:auto;
+    text-align: center;
+}
+
+.endOfTest {
+    font-size: 9vw;
+    font-weight: bold;
+    margin:5vw auto;
+    text-align: center;
+}
+
+.results a{
+    color:#19a085;
+    /* text-decoration: none; */
+}
+
+.testResults button{
+    font-size:3vw;
+    height:7vw;
+    margin: 2vw auto;
+    width:70vw;
+
+}
+
+.testResults{
+    margin: auto;
+    text-align: center;
+}
+
+.rightAnswerBg{
+    background-color: rgb(189, 254, 222);
+}
+
+.wrongAnswerBg{
+    background-color: rgb(252, 221, 223);
+}
+
+.inputTest .button{
+    width: 51vw;
+    margin: 5vw auto;
+    align-items: center;
+    display: grid;
+    height: 3vw;
+}
+
+input[type=text]{
+    margin:3vw auto;
+    width:50vw;
+    display: grid;
+    font-size:2vw;
+}
+
+.inputTest{
+    margin: 7vw 0vw;
+}
+
+.grammar2TestButton .button{
+    width:15vw;
+    min-width:10vw;
+    height:5vw;
+    margin: 20vw auto;
+}

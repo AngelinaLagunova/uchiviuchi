@@ -1,0 +1,72 @@
+.grey {
+    background-color: lightgrey;
+    padding:1vw;
+    margin:2vw 0vw;
+    font-size:5vw;
+    border-radius: 1vw;
+
+}
+.white {
+    padding:1vw;
+    margin:2vw 0vw;
+    font-size:5vw;
+    border-radius: 1vw;
+    /* border: medium solid lightgray; */
+
+}
+
+.grammarChar {
+    margin: 4vw auto;
+    text-align: center;
+}
+
+.grammarPhen {
+    font-size:3vw;
+    font-weight: bold;
+    padding:2vw;
+    margin:2vw;
+    text-align: center;
+
+}
+
+.grammarTrans {
+    text-align: center;
+    font-weight: bold;
+    font-size:3vw;
+
+}
+
+.Trans {
+    
+    margin:2vw;
+
+}
+
+
+.grammarNum{
+    position: fixed;
+    /* margin-bottom: 3vw; */
+    text-align: center;
+    font-weight: bold;
+    font-size:3vw;
+    margin-top: 80vh;
+    margin-left: 35vw;
+}
+
+/* .grammTestButton .button{
+    width:15vw;
+    min-width:10vw;
+    height:5vw;
+    margin: 20vw auto;
+} */
+
+.GrammarHeader{
+    display:grid;
+}
+
+.grammarPage {
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr;
+    position: absolute;
+    width: 80vw;
+}

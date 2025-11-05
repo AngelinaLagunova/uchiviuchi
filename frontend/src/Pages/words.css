@@ -1,0 +1,194 @@
+.zoom-effect {
+    transition: transform 0.5s;
+    max-width: 300px; 
+
+}
+  
+.zoom-effect:hover {
+    transform: scale(2);
+    /* position: absolute;  */
+    margin-bottom: 50vw; 
+    /* margin-left: 30vw;  */
+
+  
+    
+}
+
+.star img{
+    /* display: grid; */
+    width:3vw;
+    margin-left:80%;
+    /* margin-top: 4%; */
+
+}
+
+.translate img{
+    width:25%;
+    /* margin-left:5%;
+    margin-top: 5%; */
+    margin-right: 80%;
+}
+
+.cardHeader{
+    margin:5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.char {
+    font-size: 3vw;
+    font-weight:bold;
+    text-align: center;
+    width: 15vw;
+    margin: 0% auto;
+}
+
+.sound img{
+    width:4vw;
+}
+
+.sound{
+    margin: 10vw 1vw;
+    position:absolute
+}
+
+
+.rusTrans{
+    font-size: 2.5vw;
+    font-weight:bold;
+    text-align: center;
+    margin: 0% 1%;
+}
+
+.pictWord img {
+    width:80%;
+    margin-left:0%;
+    margin-top: 5%;
+}
+
+.pictWord{
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+  }
+
+
+.arrowRight img {
+    margin-top:10vw;
+    width:5vw;
+    margin-left:5vw;
+
+}
+
+.arrowLeft img{
+    margin-top:10vw;
+    width:5vw;
+    margin-left:17vw;
+}
+
+
+.count {
+    position: absolute;
+    /* display: grid; */
+    width:10%;
+    margin-top: 37%;
+    margin-left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 3vw;
+    font-weight:bold;
+
+}
+
+
+.words h1{
+    margin: 0px;
+    font-size: 2vw;
+    vertical-align:  center;
+}
+
+div .bigCard{
+    display:grid;
+    grid-template-columns: 1fr;
+    width:27vw;
+    height:30vw;
+    margin:auto;
+    background-color: #fecee8;
+    border-radius:10%;
+}
+
+div .wordPage{
+    display:grid;
+    grid-template-columns: 27vw 27vw 27vw;
+    grid-template-rows: 1fr 3fr;
+    grid-gap:1vw;
+}
+
+.wordsButton .button{
+    margin-top:0px;
+    min-width: 27vw;
+    font-size: 2vw;
+    min-height: 5vw;
+
+}
+
+.testButton .button{  
+    min-width: 27vw;
+    font-size: 2vw;
+    margin-top: 10vw;
+    min-height: 10vw;
+}
+
+
+div .miniCard{
+    display:grid;
+    width:27vw;
+    height:15vw;
+    margin:0px;
+    background-color: #fecee8;
+    border-radius:1vw;
+}
+
+.charMin {
+    
+    margin-top: 5%;
+    width:100%;
+    font-size: 3vw;
+    font-weight:bold;
+    text-align: center;
+}
+
+.phenMin{
+    
+    text-align: center;
+    width:100%;
+    font-size: 2vw;
+    font-weight:bold;
+}
+
+.rusTransMin{
+    margin-top: 15%;
+    text-align: center;
+    width:100%;
+    font-size: 2vw;
+    font-weight:bold;
+}
+
+
+
+@media (max-width:600px)
+{
+    .wordsButton, .testButton .button
+    {
+        min-width: 3vw;
+        font-size: 2.5vw;
+    }
+
+    
+    .words h1
+    {
+        font-size:5vw;
+    }
+
+}

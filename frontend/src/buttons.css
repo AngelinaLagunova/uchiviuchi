@@ -1,0 +1,97 @@
+.button {
+    min-width: 30vw;
+    font-family:'Courier New', Courier, monospace;
+    
+    font-size:1.5vw;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    color: #313133;
+    background: linear-gradient(90deg, #b5f4e1 0%, #b5f4e1 100%);
+    border: none;
+    border-radius: 1vw;
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    }
+    
+    .button:hover, .button:focus {
+    color: #313133;
+    transform: translateY(-6px);
+    }
+    
+    button:hover::before, button:focus::before {
+    opacity: 1;
+    }
+    
+    button:hover::after, button:focus::after {
+    animation: none;
+    display: none;
+    }
+    
+        @keyframes ring {
+        0% {
+            width: 30px;
+            height: 30px;
+            opacity: 1;
+        }
+        100% {
+            width: 300px;
+            height: 300px;
+            opacity: 0;
+        }
+    }
+
+
+
+.button2 {
+    min-width: 30vw;
+    min-height: 100px;
+    font-family:'Courier New', Courier, monospace;
+    
+    font-size: 1.5vw;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    color: #313133;
+    background: #fecee8;
+    background: linear-gradient(90deg,#fecee8 0%, #fecee8 100%);
+    border: none;
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+    }
+        
+    .button2:hover, .button:focus {
+    color: #313133;
+    transform: translateY(-6px);
+    }
+    
+    button:hover::before, button:focus::before {
+    opacity: 1;
+    }
+        
+    .button2:hover::after, .button2:focus::after {
+    animation: none;
+    display: none;
+    }
+    
+        @keyframes ring {
+        0% {
+            width: 30px;
+            height: 30px;
+            opacity: 1;
+        }
+        100% {
+            width: 300px;
+            height: 300px;
+            opacity: 0;
+        }
+    }
+
+
+  

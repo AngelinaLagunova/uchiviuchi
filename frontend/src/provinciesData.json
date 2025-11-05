@@ -1,0 +1,1086 @@
+{
+    "hunan": {
+      "name": {
+        "province": "Провинция Хунань 湖南",
+        "city": "г. Чанша 长沙市",
+        "name": "Hunan",
+        "nameRu": "Хунань"
+      },
+      "info": "<div><b>Хунань</b> – провинция на юге Китая, расположеная к югу от крупного озера Дунтин (Дунтинху). Это обстоятельство и повлияло на название региона, которое на русский переводится как «Провинция к Югу от Озера»., расположенна в горной местности. На северо-востоке этого региона в городе Шаошань в 1893 года родился Мао Цзэдун. <br/> </div><p>Город <b>Чанша</b> – административный центр провинции Хунань. Расположен он на реке Сянцзян, в гористой местности, между горной вершиной Юэлушань на западе и реками Люянхэ и Лаодаохэ на востоке. <br/> </p><p>Население Чанша составляет 6,529 человек, большинство жителей города – этнические китайцы.</p>",
+      "links": {
+        "pictmap":"/images/hunan.png", 
+        "food":"/province/hunan/food", 
+        "sights":"/province/hunan/sights"
+      },
+      "foodLinks" :{
+        "test":"/province/hunan/foodTest", 
+        "title":"Блюда 有名的美食", 
+        "title2":""
+      },
+      "sightsLinks":{
+          "test":"/province/hunan/sightsTest", 
+          "title":"Достопримечательности 名胜地方", 
+          "title2":""
+        },
+      "foodTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/hunan/foodTest",
+        "location":"/province/hunan/location"
+      },
+      "sightsTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/hunan/sightsTest",
+        "location":"/province/hunan/location"
+      },
+      "vocabFood": [
+        {"char":"臭豆腐", "phen":"chòudòufu", "trans":"Вонючий тофу", "pict":"/images/tofu.jpg"},
+        {"char":"毛氏红烧肉", "phen":"Máo shì hóngshāoròu", "trans":"Тушенное мясо по рецепту семьи Мао", "pict":"/images/meat.jpg"},
+        {"char":"东安子鸡", "phen":"dōng’ān zǐjī", "trans":"Курица Дунъань", "pict":"/images/chicken.jpg"},
+        {"char":"湘西酸肉", "phen":"xiāngxī suānròu", "trans":"Мясо в кислом соусе по-западнохунаньски", "pict":"/images/meat2.jpg"},
+        {"char":"剁椒鱼头", "phen":"duòjiāo yútóu", "trans":"Рыбья голова в хлопьях красного перца", "pict":"/images/fish.jpg"}
+      ],
+      "vocabSights": [
+        {"char":"张家界国家森林公园 ", "phen":"zhāng jiā jiè guó jiā sēn língōng yuán", "trans":"Чжанцзяцзе (природный парк)", "pict":"/images/naturePark.png"}, 
+        {"char":"五一广场", "phen":"wǔ yī guǎng chǎng", "trans":"Площадь 'Уи'", "pict":"/images/square.png"},
+        {"char":"洞庭湖", "phen":"dòngtínghú", "trans":"Озеро Дунтинху", "pict":"/images/lake.png"},
+        {"char":"风凰县", "phen":"fēng huáng xiàn", "trans":"Фенхуан - город Феникc (древний город)", "pict":"/images/acientTown.png"},
+        {"char":"毛泽东故居", "phen":"máo zé dōng gù jū", "trans":"Чжанцзяцзе (природный парк)", "pict":"/images/musemMao.png"},
+        {"char":"马王堆", "phen":"mǎ wáng duī", "trans":"Мавадуй", "pict":"/images/Mavaduy.png"},
+        {"char":"南方长城", "phen":"nán fāng cháng chéng", "trans":"Южная Великая стена", "pict":"/images/wall.png"}
+      ]
+    },
+    "guizhou": {
+      "name": {
+        "province": "Провинция Гуйчжоу 贵州 ", 
+        "city": "г. Гуйян 贵阳",
+        "name": "Guizhou",
+        "nameRu": "Гуйчжоу"
+      },
+      "info": "<div><b>Гуйчжоу</b> – горная многонациональная провинция на юго-западе Китая. Здесь проживает более 50 этнических групп, включая мяо, донг, буи и другие. Каждая группа имеет свои уникальные традиции, язык и культуру. Провинцию часто называют «китайской Швейцарией»: более 80% территории покрыто горами, лесами, руслами рек и водопадами. <br/>Гуйчжоу также славится своей кухней, которая включает острые блюда и использование местных ингредиентов.</div> <p><b>Гуйян</b> - Административный центр провинции. Это крупный городской центр, который играет важную роль в экономике и культуре региона. Гуйян известен своим красивыми парками и историческими достопримечательностями.<br/> В провинции субтропический и влажный климат. Зимой не холодно, летом - не жарко. Средняя температура года - 15 С.</p>",
+      "links": {
+        "pictmap":"/images/guizhou.png", 
+        "food":"/province/guizhou/food", 
+        "sights":"/province/guizhou/sights"
+      },
+      "foodLinks" :{
+        "test":"/province/guizhou/foodTest", 
+        "title":"Блюда 有名的美食", 
+        "title2":""
+      },
+      "sightsLinks":{
+          "test":"/province/guizhou/sightsTest", 
+          "title":"Достопримечательности 名胜地方", 
+          "title2":""
+        },
+      "foodTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/guizhou/foodTest",
+        "location":"/province/guizhou/location"
+      },
+      "sightsTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/guizhou/sightsTest",
+        "location":"/province/guizhou/location"
+      },
+      "vocabFood": [
+        {"char":"茅台酒", "phen":"máo tái jiǔ", "trans":"Маотай, высоко качественный китайский ликёр", "pict":"/images/liquor.png"}, 
+        {"char":"丝娃娃 ", "phen":"sī wá wá", "trans":"Сивава", "pict":"/images/sivava.png"},
+        {"char":"怪噜炒饭", "phen":"guài lū chǎo fàn", "trans":"Жареный рис Гуайлу", "pict":"/images/friedRice.png"}, 
+        {"char":"酸汤鱼", "phen":"suān tāng yú", "trans":"Рыба в кислом супе", "pict":"/images/sourFishSoup.png"}, 
+        {"char":"肠旺面", "phen":"cháng wáng miàn", "trans":"Лапша с свиными кишками", "pict":"/images/nodlesPorkIntestines.png"}
+      ],
+      "vocabSights": [
+        {"char":"黄果树瀑布", "phen":"huáng guǒ shù pù bù", "trans":"Водопады Хуангошу", "pict":"/images/waterFall.png"}, {"char":"梵净山", "phen":"fàn jìng shān", "trans":"Фаньцзиншань, горы Фаньцзин", "pict":"/images/mountains.png"},{"char":"毕节织金洞", "phen":"bì jié zhī jīn tóng", "trans":"Карстовые пещеры Чжицзинь в Бицзе", "pict":"/images/cave.png"}, {"char":"西江苗寨", "phen":"xī jiāng miáo zhài", "trans":"Деревня Мяо на реке Сицзян", "pict":"/images/village.png"}, {"char":"同仁大峡谷", "phen":"tóng rén dà xiá gǔ", "trans":"Гранд-Каньон Тунжэнь", "pict":"/images/canyon.png"}
+      ]
+    },
+    "guandun": {
+      "name": {
+        "province": "Провинция Гуандун 广东 ", 
+        "city":"г. Гуанчжоу 广州",
+        "name": "Guandun",
+        "nameRu": "Гуандун"
+      },
+      "info": "<div><b>Гуандун</b> — это прибрежный регион на юге Китая, традиционно известный на Западе как Кантон, всегда занимал стратегически важное положение из-за доступа к Южно-Китайскому морю и близости к Гонконгу и Макао. Это одна из самых экономически развитых и плотно населённых провинций в Китае, и она играет важную роль как в национальной, так и в международной торговле.</div><p><b>Гуанчжоу</b> — столица и крупнейший город провинции Гуандун, который стал первым открытым китайским портом для европейцев. Гуанчжоу является крупным транспортным узлом, важным промышленным и коммерческим центром, где хорошо развиты автомобильная промышленность, электроника, нефтехимия, фармацевтическая, пищевая и текстильная промышленности. Кроме того, город знаменит торговыми выставками, включая Кантонскую ярмарку — одну из крупнейших и старейших международных торговых выставок в мире.</p>",
+      "links": {
+        "pictmap":"/images/guandun.png", 
+        "food":"/province/guandun/food", 
+        "sights":"/province/guandun/sights"
+      },
+      "foodLinks" :{
+        "test":"/province/guandun/foodTest", 
+        "title":"Блюда 有名的美食", 
+        "title2":""
+      },
+      "sightsLinks":{
+          "test":"/province/guandun/sightsTest", 
+          "title":"Достопримечательности 名胜地方", 
+          "title2":""
+        },
+      "foodTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/guandun/foodTest",
+        "location":"/province/guandun/location"
+      },
+      "sightsTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/guandun/sightsTest",
+        "location":"/province/guandun/location"
+      },
+      "vocabFood": [
+        {"char":"广东烧腊", "phen":"guǎngdōng shāo là", "trans":"Жаркое по-кантонски", "pict":"/images/guandunFood1.png"}, 
+        {"char":"石岐乳鸽", "phen":"shí qí rǔ gē", "trans":"Молодой голубь Шици", "pict":"/images/guandunFood2.png"},
+        {"char":"广式早茶点心", "phen":"guǎngshì zǎochá diǎnxin", "trans":"Десерты к чаю в кантонском стиле", "pict":"/images/guandunFood3.png"}, 
+        {"char":"叉烧包", "phen":"chāshāobāo", "trans":"Баоцзы с маринованной свининой", "pict":"/images/guandunFood4.png"}, 
+        {"char":"双皮奶", "phen":"shuāng pí nǎi", "trans":"Молоко с двойной пенкой", "pict":"/images/guandunFood5.png"}
+      ],
+      "vocabSights": [
+        {"char":"海上古堡 ", "phen":"hǎishàng gǔbǎo", "trans":"Старинный замок в море", "pict":"/images/guandunSights1.png"}, 
+        {"char":"逢简水乡", "phen":"féng jiǎn shuǐxiāng", "trans":"Деревня Фэнцзянь", "pict":"/images/guandunSights2.png"},
+        {"char":"深圳虹桥公园", "phen":"shēnzhèn hóngqiáo gōngyuán", "trans":"Парк «Красный мост» в Шэньчжэне", "pict":"/images/guandunSights3.png"},
+        {"char":"千年瑶寨", "phen":"qiānnián yáo zhài", "trans":"Тысячелетняя деревня ЯоЧжай", "pict":"/images/guandunSights4.png"},
+        {"char":"鼎湖山", "phen":"Dǐnghúshān", "trans":"Динхушань", "pict":"/images/guandunSights5.png"}
+      ]
+    },
+    "guansi": {
+      "name": {
+        "province": "Гуанси-Чжуанский автономный район ",
+        "city":"广西壮族自治区",
+        "name": "Guansi",
+        "nameRu": "Гуанси- Чжуанский автономный район"
+      },
+      "info": "<div><b>Гуанси-Чжуанский автономный район (ГЧАР)</b> расположен на юге Китая и относится к бассейну реки Чжуцзян, где преобладает субтропический муссонный климат. Его северная граница обозначена горным хребтом Улиншань, имеющим пять важных горных проходов, служащих историческими путями с севера на юг страны. </div><p>Несмотря на расположение в приморском регионе, ГЧАР является экономически наиболее отсталым, что обусловлено рядом факторов. Во-первых, его географическое положение далеко от основных экономических центров Китая, а гористый рельеф затрудняет транспортную доступность. Во-вторых, регион относительно поздно начал хозяйственное освоение. В-третьих, здесь наблюдаются низкие уровни урбанизации, жизни населения и качества трудовых ресурсов по сравнению с другими регионами страны. Экономика ГЧАР в основном специализируется на сельском хозяйстве (выращивание сахарного тростника и тропических фруктов), добыче полезных ископаемых и лесозаготовке, при этом лесов на территории автономного района немного. Несмотря на экономические трудности, в ГЧАР расположены несколько важных промышленных, энергетических и туристских объектов, что создает потенциал для будущего развития. Гуанси также является многонациональным регионом, что обогащает его культурное разнообразие.</p><p><b>Наньнин 南宁</b>- Административный центр и крупнейший город. располагается в южной части ГЧАР, в 160 километрах от границы с Вьетнамом. Символ города (цветок) — китайская роза, и (дерево) – миндаль. Оба растения широко распространены и используются для озеленения города.</p>",
+      "links": {
+        "pictmap":"/images/guansi.png", 
+        "food":"/province/guansi/food", 
+        "sights":"/province/guansi/sights"
+      },
+      "foodLinks" :{
+        "test":"/province/guansi/foodTest", 
+        "title":"Блюда 有名的美食", 
+        "title2":""
+      },
+      "sightsLinks":{
+          "test":"/province/guansi/sightsTest", 
+          "title":"Достопримечательности 名胜地方", 
+          "title2":""
+        },
+      "foodTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/guansi/foodTest",
+        "location":"/province/guansi/location"
+      },
+      "sightsTestLinks":{ 
+        "grammar":"/grammar",
+        "testVocab":"/province/guansi/sightsTest",
+        "location":"/province/guansi/location"
+      },
+      "vocabFood": [
+        {"char":"桂林米粉", "phen":"guìlín mǐfěn", "trans":"рисовая лапша по-гуйлински", "pict":"/images/guansiFood1.png"},
+        {"char":"柳州螺蛳粉", "phen":"liǔzhōu luósīfěn", "trans":"улиточная лапша Лючжоу", "pict":"/images/guansiFood2.png"},
+        {"char":"横县鱼生", "phen":"héngxiàn yúshēng", "trans":"ломтики сырой рыбы из уезда Хэн", "pict":"/images/guansiFood3.png"},
+        {"char":"梧州龟苓膏", "phen":"wúzhōu guīlínggāo", "trans":"черепаховое желе из Учжоу", "pict":"/images/guansiFood4.png"},
+        {"char":"北海沙蟹汁", "phen":"běihǎi shāxiè zhī", "trans":"соус из песчаного краба Бэйхай", "pict":"/images/guansiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char":"阳朔 ", "phen":"Yángshuò", "trans":"Яншо", "pict":"/images/guansiSights1.png"},
+        {"char":"乐业天坑群", "phen":"Lèyè tiān kēng qún", "trans":"группа пещер Тянькэн в районе Лей", "pict":"/images/guansiSights2.png"},
+        {"char":"德天瀑布", "phen":"détiān pùbù", "trans":"водопад Дэтянь", "pict":"/images/guansiSights5.png"},
+        {"char":"黄姚古镇", "phen":"Huáng yáo gǔzhèn", "trans":"Древний город Хуаняо", "pict":"/images/guansiSights6.png"},
+        {"char":"北海银滩", "phen":"Běihǎi yín tān", "trans":"Берег Бэйхай", "pict":"/images/guansiSights7.png"}
+      ]
+    },
+    "yunnan": {
+      "name": {
+        "province": "Юньнань",
+        "city": "云南省",
+        "name": "Yunnan",
+        "nameRu": "Юньнань"
+      },
+      "info": "<div><b>Юньнань</b> — расположена на юго-западе Китая и славится своим мягким климатом. В <b>Куньмине</b> царит <em>\"вечная весна\"</em> с умеренными температурами круглый год (<time datetime=\"2023-10-23\">средняя температура +15°C</time>). В провинции ярко выражены сезонные различия: сухой сезон (ноябрь-апрель) и влажный сезон (май-октябрь). </div><p>Это важный сельскохозяйственный регион, где выращивают <em>чай, табак, цветы</em>. Также развиты <b>туризм, горнодобывающая промышленность</b> (цинк, олово) и <b>гидроэнергетика</b>.</p><div>Провинция богата природными ресурсами. Здесь протекают реки <em>Меконг 湄公河</em> и <em>Янцзы 长江</em>, есть горные хребты и тропические леса.</div><p><b>Юньнань граничит с Мьянмой, Лаосом и Вьетнамом.</b></p><div>Здесь растут редкие растения, такие как рододендроны и древние деревья гинкго.</div><p><b>Юньнань была частью древнего Шелкового пути</b> и играла важную роль в торговле между Китаем и Юго-Восточной Азией. В провинции сохранились древние города, такие как <em>Лицзян 丽江</em>, и уникальная культура этнических меньшинств.</p><div><b>Куньмин (昆明)</b> — экономический и культурный центр провинции. Здесь развиты <em>туризм, торговля, образование и высокие технологии</em>. Город также является важным транспортным узлом, связывающим Китай с Юго-Восточной Азией.</div><p>В годы Второй мировой войны город был важной базой для союзников, а также центром сопротивления японским войскам.</p>",
+      "links": {
+        "pictmap": "/images/yunnan.png",
+        "food": "/province/yunnan/food",
+        "sights": "/province/yunnan/sights"
+      },
+      "foodLinks": {
+        "test": "/province/yunnan/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/yunnan/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/yunnan/foodTest",
+        "location": "/province/yunnan/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/yunnan/sightsTest",
+        "location": "/province/yunnan/location"
+      },
+      "vocabFood": [
+        {"char": "云南汽锅鸡", "phen": "yúnnán qìguōjī", "trans": "паровая курятина в горшочке", "pict": "/images/yunnanFood1.png"},
+        {"char": "香竹饭", "phen": "xiāng zhú fàn", "trans": "клейкий рис, отваренный вместе с ростками бамбука", "pict": "/images/yunnanFood2.png"},
+        {"char": "腊排骨火锅", "phen": "làpáigǔ huǒguō", "trans": "хого с копчёными ребрышками", "pict": "/images/yunnanFood3.png"},
+        {"char": "小锅米线", "phen": "xiǎoguō mǐxiàn", "trans": "рисовая лапша в кастрюльке", "pict": "/images/yunnanFood4.png"},
+        {"char": "鲜花饼", "phen": "xiānhuā bǐng", "trans": "пирожное с засахаренными цветами", "pict": "/images/yunnanFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "松赞林寺", "phen": "sōng zàn lín sì", "trans": "Монастырь Сунцзаньлинь", "pict": "/images/yunnanSights1.png"},
+        {"char": "梅里雪山", "phen": "méi lǐ xuě shān", "trans": "Горы Мэйлисюэ", "pict": "/images/yunnanSights2.png"},
+        {"char": "虎跳峡", "phen": "hǔ tiào xiá", "trans": "Ущелье Прыгающего тигра", "pict": "/images/yunnanSights3.png"},
+        {"char": "西双版纳", "phen": "xī shuāng bǎn nà", "trans": "Сишуанбаньна-Дайский автономный округ", "pict": "/images/yunnanSights4.png"},
+        {"char": "玉龙雪山", "phen": "yù lóng xuě shān", "trans": "Снежная гора Нефритового дракона", "pict": "/images/yunnanSights5.png"}
+      ]
+    },
+    "fuijan": {
+      "name": {
+        "province": "Фуцзянь",
+        "city": "福建省",
+        "name": "Fuijan",
+        "nameRu": "Фуцзянь"
+      },
+      "info": "<p>Субтропический муссонный климат с мягкой зимой (<strong>+10-15°C</strong>) и жарким влажным летом (<strong>+28-35°C</strong>). Частые дожди в сезон тайфунов (июль-сентябрь).</p><p>Один из самых развитых регионов Китая. Специализация: электроника (<strong>Huawei, Foxconn</strong>), рыболовство, чайная промышленность (<strong>улун 乌龙茶</strong>), международная торговля (исторический центр морского Шелкового пути).</p><p>Омывается Восточно-Китайским морем (<strong>东海</strong>), горы Уи (<strong>武夷山</strong>) на севере, множество рек (<strong>Миньцзян 闽江</strong> — крупнейшая). Богатые лесные ресурсы.</p><p>Здесь вы сможете посетить тропические леса, бамбуковые рощи, чайные плантации, а также есть уникальные виды: фуцзянский кипарис (<strong>福建柏</strong>) и редкие орхидеи.</p><p>Родина народа хакка (<strong>客家人</strong>), центр древнего царства Минь (<strong>闽国</strong>). Здесь сохранились тулоу (<strong>土楼</strong>) — глинобитные дома-крепости ЮНЕСКО.</p>Фучжоу 福州 - город провинциального подчинения в провинции Фуцзянь и её административный центр. Является ключевым на юго-восточном побережье Китая, историческим и культурным центром, а также крупным центром обмена через пролив.</p><p>Известен как <em>'город банььянов'</em> (<strong>榕城</strong>) из-за древних деревьев.</p><p>Расположен в дельте реки Миньцзян (<strong>闽江</strong>), окружен холмами. В черте города — горячие источники (<strong>温泉</strong>).<br>Здесь растут пальмы, магнолии, баньяны. В парках (например, <em>西湖公园</em>) сохранились многовековые деревья.</p><p>Основан в 202 г. до н.э., был центром судостроения династии Тан. Родина писателя Линь Шу (<strong>林纾</strong>) и чайной культуры гунфу-ча (<strong>功夫茶</strong>.</p>",
+      "links": {
+        "pictmap": "/images/fuijan.png",
+        "food": "/province/fuijan/food",
+        "sights": "/province/fuijan/sights"
+      },
+      "foodLinks": {
+        "test": "/province/fuijan/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/fuijan/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/fuijan/foodTest",
+        "location": "/province/fuijan/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/fuijan/sightsTest",
+        "location": "/province/fuijan/location"
+      },
+      "vocabFood": [
+        {"char": "佛跳墙", "phen": "Fó tiào qiáng", "trans": "«Будда прыгает через стену»", "pict": "/images/fuijanFood1.png"},
+        {"char": "海蛎煎", "phen": "Hǎi lì jiān", "trans": "«Устричный омлет»", "pict": "/images/fuijanFood2.png"},
+        {"char": "荔枝肉", "phen": "Lìzhī ròu", "trans": "«Личи мясо»", "pict": "/images/fuijanFood3.png"},
+        {"char": "沙茶面", "phen": "Shā chá miàn", "trans": "«Лапша Шача»", "pict": "/images/fuijanFood4.png"},
+        {"char": "姜母鸭", "phen": "Jiāng mǔ yā", "trans": "«Утка в имбире»", "pict": "/images/fuijanFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "泰宁大金湖", "phen": "Tàiníng Dàjīnhú", "trans": "«Озеро Дацзиньху в Тайнине»", "pict": "/images/fuijanSights1.png"},
+        {"char": "南靖土楼", "phen": "Nán jìng tǔlóu", "trans": "«Тяньлуокэн»", "pict": "/images/fuijanSights2.png"},
+        {"char": "开元寺", "phen": "Kāiyuán Sì", "trans": "«Храм Кайюань (Цюаньчжоу)»", "pict": "/images/fuijanSights3.png"},
+        {"char": "平潭岛", "phen": "Píngtán Dǎo", "trans": "Остров Пинтан", "pict": "/images/fuijanSights4.png"},
+        {"char": "晋江梧材传统村落", "phen": "Jìnjiāng Wúcái", "trans": "Традиционная деревня Уцай (Цзиньцзян)", "pict": "/images/fuijanSights5.png"},
+        {"char": "合掌岩", "phen": "Hézhǎng Yán", "trans": "Скала Сложенных Ладоней (Наньпин)", "pict": "/images/fuijanSights6.png"}
+      ]
+    },
+    "jiangxi": {
+      "name": {
+        "province": "Цзянси",
+        "city": "江西省",
+        "name": "Jiangxi",
+        "nameRu": "Цзянси"
+      },
+      "info": "<div><b>Субтропический муссонный климат</b> с четким разделением сезонов. Жаркое влажное лето (<i>+28-35°C</i>), мягкая зима (<i>+5-10°C</i>). Обильные осадки весной и ранним летом.</div><br><div><b>Крупнейший производитель риса</b> (稻米) в Китае, чайные плантации (особенно сорт \"<i>Лушань Юньу</i>\" 庐山云雾茶).</div<br><div>Здесь происходит добыча вольфрама и меди, керамическое производство.</div><br><div><b>Внутренняя провинция без выхода к морю.</b> Главная река — <i>Ганьцзян</i> (赣江), также Вы сможете посетить озеро <i>Поянху</i> (鄱阳湖) — крупнейшее пресноводное озеро Китая. Увидеть горы <i>Лушань</i> (庐山) и <i>Цзинганшань</i> (井冈山).</div><div>Провинция богата бамбуковыми лесами, чайными плантациями, уникальными видами магнолий. В районе озера Поянху — важный ареал перелетных птиц.</div><br><div><b>Исторические факты:</b></div><div> - Родина революционной базы коммунистов (<i>Цзинганшань</i>)</div><div> - Место создания неоконфуцианства (<i>Чжу Си</i> 朱熹)</div><div> - Древние деревни с хуэйчжоуской архитектурой (например, <i>Уюань</i> 婺源)</div><br><div><b>Столица — Нанчан</b> (南昌)</div><div>Расположен на реке <i>Ганьцзян</i> (赣江).</div><div>В черте города озеро <i>Циншаньху</i> (青山湖), много парков с традиционными китайскими садами, аллеями сакуры.</div><br><div><b>Исторические факты:</b></div><div> - Место \"<i>Наньчанского восстания</i>\" 1927 года — начало создания Красной армии Китая</div><div> - Башня <i>Тэнванге</i> (滕王阁) — один из трех великих павильонов Китая (построен в 653 г.)</div><div> - Древний культурный центр с 2000-летней историей</div>",
+      "links": {
+        "pictmap": "/images/jiangxi.png",
+        "food": "/province/jiangxi/food",
+        "sights": "/province/jiangxi/sights"
+      },
+      "foodLinks": {
+        "test": "/province/jiangxi/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/jiangxi/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/jiangxi/foodTest",
+        "location": "/province/jiangxi/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/jiangxi/sightsTest",
+        "location": "/province/jiangxi/location"
+      },
+      "vocabFood": [
+        {"char": "三杯鸡", "phen": "sān bēi jī", "trans": "Цыплёнок трёх чашек", "pict": "/images/jiangxiFood1.png"},
+        {"char": "莲花血鸭", "phen": "liánhuā xuè yā", "trans": "Пряная утка с кровью из Ляньхуа", "pict": "/images/jiangxiFood2.png"},
+        {"char": "鄱湖胖鱼头", "phen": "pó hú pàng yú tóu", "trans": "Толстолобик из озера Поян", "pict": "/images/jiangxiFood3.png"},
+        {"char": "藜蒿炒腊肉", "phen": "lí hāo chǎo là ròu", "trans": "Жаренная полынь со свининой", "pict": "/images/jiangxiFood4.png"},
+        {"char": "南昌炒米粉", "phen": "nánchāng chǎo mǐfěn", "trans": "Жареная рисовая лапша по-наньчански", "pict": "/images/jiangxiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "龙虎山", "phen": "Lónghǔ Shān", "trans": "Горы Дракона и Тигра", "pict": "/images/jiangxiSights1.png"},
+        {"char": "三清山", "phen": "Sānqīng Shān", "trans": "Горы Саньцин", "pict": "/images/jiangxiSights2.png"},
+        {"char": "井冈山", "phen": "Jǐnggāng Shān", "trans": "Горы Цзинган", "pict": "/images/jiangxiSights3.png"},
+        {"char": "滕王阁", "phen": "Téngwáng Gé", "trans": "Павильон Тэнвана", "pict": "/images/jiangxiSights4.png"},
+        {"char": "望仙谷", "phen": "Wàngxiān Gǔ", "trans": "Долина Бессмертных / Вансянь", "pict": "/images/jiangxiSights5.png"},
+        {"char": "景德镇", "phen": "Jǐngdézhèn", "trans": "Фарфоровая столица Китая", "pict": "/images/jiangxiSights6.png"}
+      ]
+    },
+    "hainan": {
+      "name": {
+        "province": "Хайнань",
+        "city": "海南省",
+        "name": "Hainan",
+        "nameRu": "Хайнань"
+      },
+      "info": "<p><b>Хайнань</b> — тропический остров на юге Китая, популярное курортное направление. Название переводится как «морской юг». Также Хайнань называют «китайскими Гавайями» из-за того, что он находится на одной широте с Гавайскими островами.</p> <p>Тропический муссонный климат. Средняя температура: +22°C зимой, +29°C летом.</p><p> Центр острова украшают горы Учжишань (五指山), чьи склоны покрыты реликтовыми джунглями национального парка Янода (呀诺达). Здесь, среди кокосовых рощ и орхидей, обитают уникальные животные — хайнаньские гиббоны и олени-лиры. Самая длинная река острова — Ваньцюаньхэ (万泉河) — несёт свои воды к морю, обрамлённая мангровыми зарослями. </p><p><b>Культура и история</b><br>С древних времён Хайнань служил местом ссылки опальных чиновников империи, а сегодня это динамично развивающаяся провинция (с 1988 года).</p><p> Особый колорит придают острову деревни народа Ли (黎族), где сохранились традиционные обычаи и ремёсла. В этнографическом комплексе Бинлангу (槟榔谷) можно увидеть древние обряды и ткацкие техники, передающиеся из поколения в поколение.</p><p><b> Столица Хайкоу 海口 </b><br> Столица провинции, расположенная на севере, сочетает современные небоскрёбы и колониальную архитектуру улицы Цилоу (骑楼老街). Отсюда начинается знакомство с Хайнанем — будь то дайвинг у коралловых рифов, треккинг в горах или дегустация свежих кокосов на берегу тёплого моря.</p>",
+      "links": {
+        "pictmap": "/images/hainan.png",
+        "food": "/province/hainan/food",
+        "sights": "/province/hainan/sights"
+      },
+      "foodLinks": {
+        "test": "/province/hainan/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/hainan/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/hainan/foodTest",
+        "location": "/province/hainan/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/hainan/sightsTest",
+        "location": "/province/hainan/location"
+      },
+      "vocabFood": [
+        {"char": "海南鸡饭", "phen": "Hǎinán jī fàn", "trans": "Хайнаньский куриный рис", "pict": "/images/hainanFood1.png"},
+        {"char": "椰子饭", "phen": "Yēzi fàn", "trans": "Кокосовый рис", "pict": "/images/hainanFood2.png"},
+        {"char": "东山羊", "phen": "Dōngshān yáng", "trans": "Дуншаньская козлятина", "pict": "/images/hainanFood3.png"},
+        {"char": "加积鸭", "phen": "Jiājí yā", "trans": "Утка Цзяцзи", "pict": "/images/hainanFood4.png"},
+        {"char": "和东蟹", "phen": "Hé Lè xiè", "trans": "Краб Хэлэ", "pict": "/images/hainanFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "洋浦千年古盐田", "phen": "Yángpǔ qiānnián gǔ yántián", "trans": "\"Древние соляные копи Янпу\"", "pict": "/images/hainanSights1.png"},
+        {"char": "乐东莺歌海盐场", "phen": "Lèdōng Yīnggēhǎi Yánchǎng", "trans": "\"Соляные поля Ингехай\"", "pict": "/images/hainanSights2.png"},
+        {"char": "万宁日月湾", "phen": "Wànníng Rìyuè Wān", "trans": "\"Залив Солнца и Луны\"", "pict": "/images/hainanSights3.png"},
+        {"char": "文南老街", "phen": "Wénnán Lǎojiē", "trans": "Старая улица Вэньнань", "pict": "/images/hainanSights4.png"},
+        {"char": "五指山", "phen": "Wǔzhǐ Shān", "trans": "Гора Пяти Пальцев", "pict": "/images/hainanSights5.png"}
+      ]
+    },
+    "makao": {
+      "name": {
+        "province": "Специальный административный район Макао",
+        "city": "澳门",
+        "name": "Makao",
+        "nameRu": "Макао"
+      },
+      "info": "<p><b>Макао</b> — особый административный район на юге Китая, известный как мировой центр игорного бизнеса и уникального культурного наследия. Название переводится как «Залив А-ма», в честь морской богини, почитаемой местными рыбаками.</p> <p>Расположен на полуострове и включает два острова — Таипа и Колване, соединённые дамбами и мостами.</p><p> В прибрежных водах обитают китайские белые дельфины.</p><p> Климат субтропически муссонный. Средняя температура зимой составляет около +15°C, а летом поднимается до +28°C. Сезон дождей длится с мая по сентябрь, принося обильные осадки.</p><p><b> Исторические факты</b><br> С XV века Макао был портовым центром, а с 1557 года стал колонией Португалии, что оставило след в архитектуре и культуре — от руин собора Святого Павла до крепости Монте. С 1999 года Макао вернулся под суверенитет Китая как особый административный район, сохраняя автономию. Сегодня это место, где переплетаются восточные и западные традиции, что привлекает миллионы туристов.</p>",
+      "links": {
+        "pictmap": "/images/makao.png",
+        "food": "/province/makao/food",
+        "sights": "/province/makao/sights"
+      },
+      "foodLinks": {
+        "test": "/province/makao/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/makao/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/makao/foodTest",
+        "location": "/province/makao/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/makao/sightsTest",
+        "location": "/province/makao/location"
+      },
+      "vocabFood": [
+        {"char": "椰汁焗葡国鸡", "phen": "Yēzhī jú púguó jī", "trans": "Курица по-португальски с кокосовым молоком", "pict": "/images/makaoFood1.png"},
+        {"char": "葡式蛋挞", "phen": "Púshì dàntǎ", "trans": "Португальские яичные тарталетки", "pict": "/images/makaoFood2.png"},
+        {"char": "澳门杏仁饼", "phen": "Àomén xìngrén bǐng", "trans": "Миндальное печенье из Макао", "pict": "/images/makaoFood3.png"},
+        {"char": "虾籽捞面", "phen": "Xiāzǐ lāo miàn", "trans": "Миндальное печенье из Макао", "pict": "/images/makaoFood4.png"},
+        {"char": "猪肉脯", "phen": "Zhūròu fǔ", "trans": "Вяленая свинина", "pict": "/images/makaoFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "东望洋灯塔", "phen": "Dōngwàngyáng Dēngtǎ", "trans": "Маяк Гуя", "pict": "/images/makaoSights1.png"},
+        {"char": "永利发财树", "phen": "Yǒnglì Fācáishù", "trans": "Денежное дерево в казино Wynn", "pict": "/images/makaoSights2.png"},
+        {"char": "大三巴牌坊", "phen": "Dàsānbā Páifāng", "trans": "Руины собора Святого Павла", "pict": "/images/makaoSights3.png"},
+        {"char": "大炮台", "phen": "Dàpàotái", "trans": "Монте форт", "pict": "/images/makaoSights4.png"},
+        {"char": "水舞間", "phen": "Shuǐwǔjiān", "trans": "«Дом танцующей воды» / «The House of Dancing Water»", "pict": "/images/makaoSights5.png"}
+      ]
+    },
+    "hongkong": {
+      "name": {
+        "province": "Специальный административный район Гонконг",
+        "city": "香港",
+        "name": "HongKong",
+        "nameRu": "Гонконг"
+      },
+      "info": "<p><b>Гонконг</b> переводится как «Благоухающая гавань» — в прошлом здесь торговали ароматными специями и благовониями. Сегодня это глобальный финансовый центр с уникальным статусом «одна страна — две системы».</p><p> Расположен на Юго-восточном побережье Китая в устье реки Дунцзян 东江, включает остров Гонконг 香港岛, полуостров Коулун/Цзюлун 九龙, Лантау/ (совр. кантон. назв.) Тайюсань 大嶼山 и Новые Территории.</p><p> Климат влажный субтропический. Лето (+28–33°C) жаркое и дождливое, зима (+15–20°C) мягкая. Часто идут тайфуны (с мая по сентябрь).</p><p> 70% территории — горы и зелёные парки. Высшая точка — гора Таймошань 大帽山, 957 м. Водно-болотные угодья Май По 米埔 — место обитания перелётных птиц.</p><p> <b>Исторические факты:</b><br> Ключевые даты<br><ul> <li> 1842–1997 гг. — британская колония </li><li> 1997 г. — возвращение Китаю под статусом специального административного района</li></ul>Из-за смешения китайской и британской культур здесь сохранились рыбацкие деревни, ннапример, Тай О 大澳 и колониальные здания.<p>",
+      "links": {
+        "pictmap": "/images/hongkong.png",
+        "food": "/province/hongkong/food",
+        "sights": "/province/hongkong/sights"
+      },
+      "foodLinks": {
+        "test": "/province/hainhongkongan/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/hongkong/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/hongkong/foodTest",
+        "location": "/province/hongkong/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/hongkong/sightsTest",
+        "location": "/province/hongkong/location"
+      },
+      "vocabFood": [
+        {"char": "鱼蛋粉", "phen": "Yúdàn fěn", "trans": "Рыбные шарики с лапшой", "pict": "/images/hongkongFood1.png"},
+        {"char": "鸡蛋仔", "phen": "Jīdàn zǎi", "trans": "Гонконгские вафли-пузыри", "pict": "/images/hongkongFood2.png"},
+        {"char": "车仔面", "phen": "Chēzǎi miàn", "trans": "«Лапша с тележки»", "pict": "/images/hongkongFood3.png"},
+        {"char": "波萝包", "phen": "Bōluó bāo", "trans": "Булочка с ананасом в гонконгском стиле", "pict": "/images/hongkongFood4.png"},
+        {"char": "港式奶茶", "phen": "Gǎngshì nǎichá", "trans": "Гонконгский молочный чай", "pict": "/images/hongkongFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "旺角", "phen": "Wàngjiǎo", "trans": "Монкок/ Вонкок", "pict": "/images/hongkongSights1.png"},
+        {"char": "香港迪士尼", "phen": "Xiānggǎng Díshìní", "trans": "Гонконгский Диснейленд", "pict": "/images/hongkongSights2.png"},
+        {"char": "维多利亚港", "phen": "Wéiduōlìyǎ Gǎng", "trans": "Виктория-Харбор/ Гавань Виктория", "pict": "/images/hongkongSights3.png"},
+        {"char": "油麻地庙街", "phen": "Yóumádì Miào Jiē", "trans": "Темпл-Стрит", "pict": "/images/hongkongSights4.png"},
+        {"char": "太平山", "phen": "Tàipíng Shān", "trans": "Пик Виктория", "pict": "/images/hongkongSights5.png"}
+      ]
+    },
+    "sichuan": {
+      "name": {
+        "province": "Провинция Сычуань",
+        "city": "四川",
+        "name": "Sichuan",
+        "nameRu": "Сычуань"
+      },
+      "info": "<p>Расположенная в юго-западном Китае, <b>Сычуань</b> получила своё название «Четыре реки», по одной из версий, благодаря могучей речной системе, включающей Янцзы 长江 и её притоки — Миньцзян 岷江, Тоцзян 沱江, Цзялинцзян 嘉陵江 и Ялунцзян 雅砻江. Эти реки, прорезающие глубокие долины, создали уникальный ландшафт: на западе возвышаются заснеженные пики Сино-Тибетских гор (до 7,556 м, гора Гонгага 贡嘎山), а на востоке раскинулась плодородная Сычуаньская котловина — «житница Китая».</p><p> Климат здесь контрастный: субтропический влажный на равнинах (лето +25–30°C, зима +5–10°C) и суровый высокогорный в Тибетском нагорье.</p><p> Флора и фауна — гордость провинции. В заповедниках Цзючжайгоу 九寨沟 и Хуанлун 黄龙 растут реликтовые рододендроны и голубые ели, а в бамбуковых лесах горы Эмэй 峨眉山 обитают большие панды 大熊猫 — символ Сычуаня. Здесь же живут золотистые курносые обезьяны 金丝猴 и красные панды 小熊猫. </p><p><b>Исторические факты:</b><br>Историческое наследие Сычуани восходит к эпохе древнего царства Шу (蜀国, III век до н.э.). А первые бумажные деньги, известные как \"цзяоцзы\" 交子, появились в провинции Сычуань во времена династии Сун (X-XIII века).</p><p><b> Столица Чэнду 成都</b><br>Столица провинции, Чэнду 成都, — один из старейших городов Китая (основан в IV веке до н.э.), известный как родина чайной культуры. В пригороде сохранились ирригационная система Дуцзянъянь 都江堰, построенная в 256 году до н.э. и действующая до сих пор, и храм Ухоуцы 武侯祠 эпохи Троецарствия.</p>",
+      "links": {
+        "pictmap": "/images/sichuan.png",
+        "food": "/province/sichuan/food",
+        "sights": "/province/sichuan/sights"
+      },
+      "foodLinks": {
+        "test": "/province/sichuan/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/sichuan/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/sichuan/foodTest",
+        "location": "/province/sichuan/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/sichuan/sightsTest",
+        "location": "/province/sichuan/location"
+      },
+      "vocabFood": [
+        {"char": "麻婆豆腐", "phen": "mápó dòufu", "trans": "Мапо тофу", "pict": "/images/sichuanFood1.png"},
+        {"char": "回锅肉", "phen": "huíguōròu", "trans": "Хуэйгожоу / «Свинина двойного приготовления»", "pict": "/images/sichuanFood2.png"},
+        {"char": "鱼香肉丝", "phen": "yúxiāng ròus", "trans": "Свинина в рыбном соусе", "pict": "/images/sichuanFood3.png"},
+        {"char": "水煮肉片", "phen": "shuǐzhǔ ròupiàn", "trans": "Кусочки отварной свинины в остром соусе по-сычуаньски", "pict": "/images/sichuanFood4.png"},
+        {"char": "辣子鸡", "phen": "làzǐjī", "trans": "Курица с перцем по-сычуаньски", "pict": "/images/sichuanFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "大熊猫繁育研究基地", "phen": "Dàxióngmāo Fányù Yánjiū Jīdì", "trans": "Заповедник больших панд", "pict": "/images/sichuanSights1.png"},
+        {"char": "武侯祠", "phen": "Wǔhóu Cí", "trans": "Храм Ухоуцы", "pict": "/images/sichuanSights2.png"},
+        {"char": "九寨沟", "phen": "Jiǔzhàigōu", "trans": "Цзючжайгоу", "pict": "/images/sichuanSights3.png"},
+        {"char": "黄龙", "phen": "Huánglóng", "trans": "Хуанлун", "pict": "/images/sichuanSights4.png"},
+        {"char": "峨眉山", "phen": "Éméi Shān", "trans": "Гора Эмэйшань", "pict": "/images/sichuanSights5.png"},
+        {"char": "乐山大佛", "phen": "Lèshān Dàfó", "trans": "Лэшаньский гигантский Будда", "pict": "/images/sichuanSights6.png"},
+        {"char": "都江堰", "phen": "Dūjiāngyàn", "trans": "Дуцзянъянь", "pict": "/images/sichuanSights7.png"},
+        {"char": "色达", "phen": "sèdá", "trans": "Сертар", "pict": "/images/sichuanSights8.png"},
+        {"char": "三星堆", "phen": "sānxīngduī", "trans": "Музей Саньсиндуя", "pict": "/images/sichuanSights9.png"}
+      ]
+    },
+    "chongqing": {
+      "name": {
+        "province": "Город центрального подчинения Чунцин",
+        "city": "重庆",
+        "name": "Chongqing",
+        "nameRu": "Чунцин"
+      },
+      "info": "<p>Расположенный на пересечении рек Янцзы 长江 Cháng Jiāng и Цзялинцзян 嘉陵江 Jiālíng Jiāng, <b>Чунцин</b> получил статус города центрального подчинения в 1997 году, став крупнейшим по площади мегаполисом Китая (82,400 км²). Город буквально \"встроен\" в холмистый ландшафт, где улицы превращаются в серпантины, а дома карабкаются по склонам.</p><p> Климат влажный субтропический  с ярко выраженными сезонами. Лето (июнь-август) жаркое (+35°C) и душное, зима (декабрь-февраль) мягкая (+6-8°C).</p><p> Горные склоны вокруг Чунцина покрыты субтропическими лесами, где сохранились редкие виды флоры, например, древние метасеквойи 水杉 Shuǐshān - живые ископаемые возрастом 50 млн лет.</p><p> <b>Исторические факты:</b><br><ul><li> На месте Чунцина была столица древнего царства Ба 巴国 Bā Guó в V-III веках до н.э. </li><li>Своё нынешнее название (Чунцин) город получил в 1189 году, получил нынешнее название, означающее \"Двойное празднование\"</li><li> В 1937-1945 годах служил \"второй столицей\" Китая, укрывая правительство от японцев</li><li> Место подписания исторического соглашения между Гоминьданом и КПК в 1945 году</li><li> Получил статус города центрального подчинения в 1997 году</li>",
+      "links": {
+        "pictmap": "/images/chongqing.png",
+        "food": "/province/chongqing/food",
+        "sights": "/province/chongqing/sights"
+      },
+      "foodLinks": {
+        "test": "/province/chongqing/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/chongqing/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/chongqing/foodTest",
+        "location": "/province/chongqing/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/chongqing/sightsTest",
+        "location": "/province/chongqing/location"
+      },
+      "vocabFood": [
+        {"char": "重庆火锅", "phen": "Chóngqìng huǒguō", "trans": "Чунцинский хого", "pict": "/images/chongqingFood1.png"},
+        {"char": "毛血旺", "phen": "Máo xuě wàng", "trans": "Мао сюэ ван", "pict": "/images/chongqingFood2.png"},
+        {"char": "紅糖糍粑", "phen": "Hóngtáng cíbā", "trans": "Рисовые пирожки с тросниковым сахаром", "pict": "/images/chongqingFood3.png"},
+        {"char": "重庆麻花", "phen": "Chóngqìng máhuā", "trans": "Чунцинские крендельки", "pict": "/images/chongqingFood4.png"},
+        {"char": "酸菜鱼", "phen": "Suāncài yú", "trans": "Суан Цай Ю/ «рыба с маринованной капустой»", "pict": "/images/chongqingFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "洪崖洞", "phen": "Hóngyádòng", "trans": "Hongya Cave/ 11-этажный комплекс на сваях", "pict": "/images/chongqingSights1.png"},
+        {"char": "武隆喀斯特", "phen": "Wǔlóng Kāsītè", "trans": "Карстовый ландшафт Улун", "pict": "/images/chongqingSights2.png"},
+        {"char": "李子坝轻轨穿楼", "phen": "Lǐzǐbà qīngguǐ chuān lóu", "trans": "Станция \"Лицзыба\" легкого метро, проходящие сквозь здание", "pict": "/images/chongqingSights3.png"},
+        {"char": "人民大礼堂", "phen": "Rénmín dà lǐtáng", "trans": "Большой зал народных собраний", "pict": "/images/chongqingSights4.png"},
+        {"char": "鸿恩寺", "phen": "Hóng'ēn sì", "trans": "Монастырь Хунъэнь", "pict": "/images/chongqingSights5.png"}
+      ]
+    },
+    "tibet": {
+      "name": {
+        "province": "Тибетский автономный район",
+        "city": "西藏自治区 Xīzàng Zìzhìqū",
+        "name": "Tibet",
+        "nameRu": "Тибет"
+      },
+      "info": "<p>Расположенный на «Крыше мира», <b>Тибетский автономный район 西藏 Xīzàng</b> — это суровый, но величественный край, где заснеженные пимы Гималаев 喜马拉雅山脉 Xǐmǎlāyǎ shānmài соседствуют с бескрайними высокогорными плато. Средняя высота региона превышает 4000 метров, а его сердцем является Цинхай-Тибетское нагорье 青藏高原 Qīngzàng gāoyuán — самое высокое и обширное плато на Земле.</p><p> Климат здесь резко континентальный, холодные зимы до -20°C сменяются коротким прохладным летом +15–20°C. Из-за разреженного воздуха и сильного солнца погода может меняться за минуты.</p><p> Уникальная природа Тибета включает: альпийские луга, солёные озёра и вечные ледники. Здесь обитают редкие виды: тибетские антилопы 藏羚羊 zàng língyáng, дикие яки 野牦牛 yě máoniú и снежные барсы 雪豹 xuě bào.</p><p> Исторически Тибет — центр тибетского буддизма 藏传佛教 Zàngchuán Fójiào, сформировавшегося под влиянием Индии и Китая. В VII веке царь Сонцэн Гампо 松赞干布 Sōngzàn Gānbù объединил Тибет и основал Лхасу, а в XIII веке регион вошёл в состав империи Юань. Сегодня Тибет сохраняет уникальную культуру, но его развитие тесно связано с Китаем.</p><p><b> Лхасы 拉萨 Lāsà </b><br>Столица Тибета — Лхаса 拉萨 Lāsà, чьё название означает «Земля богов», лежит в долине реки Кий Чу 拉萨河 Lāsà Hé на высоте 3650 метров. Город окружён горами, смягчающими холодный климат: зимой здесь около 0°C, летом — до 22°C.</p><p> Лхаса — духовный центр Тибета. Её символ, дворец Потала 布达拉宫 Bùdálā Gōng, возвышается над городом как воплощение буддийской архитектуры. Рядом находится храм Джоканг 大昭寺 Dàzhāo Sì — сердце паломничества. В старых кварталах Баркора 八廓街 Bākuò Jiē смешиваются запахи чая с маслом 酥油茶 sūyóu chá и звон молитвенных барабанов.</p><p> Основанная в VII веке, Лхаса долго была закрыта для иностранцев. Сегодня это современный город, где монастыри соседствуют с отелями, а традиционная культура жива в каждом ритуале.</p>",
+      "links": {
+        "pictmap": "/images/tibet.png",
+        "food": "/province/tibet/food",
+        "sights": "/province/tibet/sights"
+      },
+      "foodLinks": {
+        "test": "/province/tibet/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/tibet/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/tibet/foodTest",
+        "location": "/province/tibet/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/tibet/sightsTest",
+        "location": "/province/tibet/location"
+      },
+      "vocabFood": [
+        {"char": "酥油茶", "phen": "sūyóu chá", "trans": "Тибетский чай с маслом/ Часуйма", "pict": "/images/tibetFood1.png"},
+        {"char": "青稞酒", "phen": "qīngkē jiǔ", "trans": "Вино из высокогорного ячменя", "pict": "/images/tibetFood2.png"},
+        {"char": "牦牛肉", "phen": "yáoniú ròu", "trans": "Мясо яка", "pict": "/images/tibetFood3.png"},
+        {"char": "糌粑", "phen": "zānba", "trans": "Цампа", "pict": "/images/tibetFood4.png"},
+        {"char": "手抓羊肉", "phen": "shǒu zhuā yángròu", "trans": "Отварная баранина, которую едят руками", "pict": "/images/tibetFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "布达拉宫", "phen": "Bùdálā Gōng", "trans": "Дворец Потала", "pict": "/images/tibetSights1.png"},
+        {"char": "大昭寺", "phen": "Dàzhāo Sì", "trans": "Храм Джоканг", "pict": "/images/tibetSights2.png"},
+        {"char": "羊卓雍措", "phen": "Yángzhuō Yōngcuò", "trans": "Озеро Ямдрок", "pict": "/images/tibetSights3.png"},
+        {"char": "扎什伦布寺", "phen": "Zháshílúnbù Sì", "trans": "Монастырь Ташилунпо", "pict": "/images/tibetSights4.png"},
+        {"char": "江孜", "phen": "Jiāngzī", "trans": "Древний город Гьянце", "pict": "/images/tibetSights5.png"}
+      ]
+    },
+    "hubei": {
+      "name": {
+        "province": "Провинции Хубэй",
+        "city": "湖北省",
+        "name": "Hubei",
+        "nameRu": "Хубэй"
+      },
+      "info": "<p>Расположенная в самом сердце Китая, провинция <b>Хубэй 湖北 Húběi</b> «к северу от озера» получила своё название благодаря гигантскому пресноводному озеру Дунтинху 洞庭湖 Dòngtíng Hú, которое формирует её южную границу. Этот регион, окружённый горами Ушань 巫山 Wū Shān на востоке и Циньлин秦岭 Qín Lǐng на севере, служит естественным «мостом» между восточными равнинами и западными высокогорьями. Могучая Янцзы 长江 Cháng Jiāng пересекает провинцию с запада на восток, а её приток Ханьцзян 汉江 Hàn Jiāng делит столицу Ухань на три части.</p><p> Климат здесь влажный субтропический, с жарким летом (+30–35°C) и мягкой зимой (редко ниже 0°C). Весной часты туманы, а осень - идеальное время для посещения.</p><p> Водно-болотные угодья Дунтинху - дом для мигрирующих птиц 如白鹤 bái hè белые журавли. В горных районах сохранились реликтовые леса с гинкго 银杏 yínxìng и гигантскими саламандрами 大鲵 dà ní.</p><p> <b>Исторические факты</b><br> Хубэй - колыбель древнего царства Чу 楚 Chǔ, 1000–223 гг. до н.э., чья культура повлияла на всю Юго-Восточную Азию. Здесь найдены колокола царства Чу 曾侯乙编钟 Zēng Hóu Yǐ biānzhōng - шедевр бронзового века. В XIX–XX веках провинция стала эпицентром Синьхайской революции 辛亥革命 Xīnhài Gémìng, свергнувшей империю Цин.</p><p><b>Ухань 武汉 Wǔhàn</b><br> Столица Хубэя - Ухань 武汉 Wǔhàn, название является сокращением от названий города Учан 武昌 и Ханькоу 汉口. Территория метрополии состоит из трёх исторических частей: восточной - Учан 武昌, северной - Ханькоу 汉口 и юго-западной - Ханьян 汉阳, которые вместе именуются «трёхградье Ухань». Эти три части стоят напротив друг друга по разным берегам рек, они связаны мостами, один из которых считается первым мостом современного типа в Китае и называется просто «Первый мост» Самый густонаселённый город центрального Китая с населением около 12 млн человек, расположенный в месте слияния рек Янцзы и Ханьшуй. В 2020 году город приобрёл известность за пределами Китая как точка начала пандемии коронавирусной инфекции COVID-19.</p>",
+      "links": {
+        "pictmap": "/images/hubei.png",
+        "food": "/province/hubei/food",
+        "sights": "/province/hubei/sights"
+      },
+      "foodLinks": {
+        "test": "/province/hubei/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/hubei/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/hubei/foodTest",
+        "location": "/province/hubei/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/hubei/sightsTest",
+        "location": "/province/hubei/location"
+      },
+      "vocabFood": [
+        {"char": "清蒸武昌鱼", "phen": "Qīngzhēng Wǔchāng yú", "trans": "Учанская рыба на пару", "pict": "/images/hubeiFood1.png"},
+        {"char": "红菜苔炒腊肉", "phen": "Hóngcàitái chǎo làròu", "trans": "Жареная свинина с красными овощами", "pict": "/images/hubeiFood2.png"},
+        {"char": "热干面", "phen": "Règān miàn", "trans": "Хубэйская сухая лапша", "pict": "/images/hubeiFood3.png"},
+        {"char": "恩施炕土豆", "phen": "Ēnshī kàng tǔdòu", "trans": "Жареный картофель по-эньшиски", "pict": "/images/hubeiFood4.png"},
+        {"char": "凉虾", "phen": "Liáng xiā", "trans": "Летний десерт \"прохладные креветки\"", "pict": "/images/hubeiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "黄鹤楼", "phen": "Huáng Hè Lóu", "trans": "Башня Жёлтого Журавля", "pict": "/images/hubeiSights1.png"},
+        {"char": "西陵峡", "phen": "Xīlíng Xiá", "trans": "Ущелье Силин", "pict": "/images/hubeiSights2.png"},
+        {"char": "荆州古城", "phen": "Jīngzhōu Gǔchéng", "trans": "Древний город Цзинчжоу", "pict": "/images/hubeiSights3.png"},
+        {"char": "武当山", "phen": "Wǔdāng Shān", "trans": "Горы Удан", "pict": "/images/hubeiSights4.png"},
+        {"char": "洞庭湖", "phen": "Dòngtíng Hú", "trans": "Озеро Дунтинху", "pict": "/images/hubeiSights5.png"}
+      ]
+    },
+    "anhui": {
+      "name": {
+        "province": "Провинция Аньхой",
+        "city": "安徽省",
+        "name": "Anhui",
+        "nameRu": "Аньхой"
+      },
+      "info": "<p><b>Аньхой</b>, расположенная на востоке Китая, простирается через бассейны рек Янцзы 长江 Chángjiāng и Хуай 淮河 Huáihé, гранича с провинциями Цзянсу, Чжэцзян, Цзянси, Хубэй, Хэнань и Шаньдун, что делает её географически разнообразной: северные равнины Северо-Китайской равнины плавно переходят в холмистые области центральной части и горные хребты Дабе 大别山 Dàbiéshān на юго-западе, с кульминацией в пике Лотоса 莲花峰 Liánhuāfēng высотой 1864,8 м в горах Хуаншань 黄山 Huángshān.</p><p>Климат варьируется от умеренного на севере, где средняя температура января колеблется от -1 до -2°C, до более тёплого юга с +27°C и выше в июле, с годовым количеством осадков от 750 до 1700 мм, поддерживая густые леса, занимающие 28,65% территории, где произрастают чай Хуаншань Маофэн 黄山毛峰 Huángshān Máofēng и Кимун 祁门 Qímén.</p><p>Фауна включает редких животных, например китайский мунтжак, а водоёмы, включая озеро Чаоху 巢湖 Cháohú площадью 780 км², богаты рыбой и водоплавающими птицами.</p><p>Исторические факты:<br> В XIX веке Аньхой была одним из мест, затронутых восстания тайпинов, а еще тут родился Ху Ши 胡适, учёный, философ, литератор, историк, в 1919 году был одним из лидеров литературной революции в рамках «Движения за новую культуру».</p><p>Столица Аньхоя - <b>Хэфэй 合肥 Héféi</b> «слияние рек», город с 2 000-летней историей, превратившийся в современный научный центр.</p><p>Внутри городского округа Хэфэй находится озеро Чаоху — одно из пяти крупнейших пресноводных озёр Китая. На озере есть несколько островов, крупнейший из которых — Лаошань.</p><p>Здесь муссонный климат с прохладной сухой зимой и жарким влажным летом.</p><p>В окрестностях города есть цветущие холмы рододендрона. В 10 км от города, в горах Дашу, есть Китайский парк дикой природы, который одновременно является зоопарком и ботаническим садом.</p><p>Исторические факты:<br> Хэфэй, известный с эпохи Троецарствия как стратегический пункт,  был местом нескольких крупных сражений. В 4–6 веках нашей эры за этот важнейший пограничный регион между северными и южными штатами велись ожесточённые бои, поэтому его название и административный статус часто менялись. 21 января 1949 года Хэфэй был освобождён от гоминьдановских войск, а в 1952 году официально утверждён в качестве административного центра провинции Аньхой. Сегодня этот город сочетает древние традиции с современным развитием, включая инновационные технологии и транспортные узлы.</p>",
+      "links": {
+        "pictmap": "/images/anhui.png",
+        "food": "/province/anhui/food",
+        "sights": "/province/anhui/sights"
+      },
+      "foodLinks": {
+        "test": "/province/anhui/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/anhui/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/anhui/foodTest",
+        "location": "/province/anhui/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/anhui/sightsTest",
+        "location": "/province/anhui/location"
+      },
+      "vocabFood": [
+        {"char": "臭鳜鱼", "phen": "Chòu guì yú", "trans": "Ферментированная мандариновая рыба", "pict": "/images/anhuiFood1.png"},
+        {"char": "徽州", "phen": "Huīzhōu yīpǐn guō", "trans": "Рагу в горшке по-хуэйчжоуски", "pict": "/images/anhuiFood2.png"},
+        {"char": "淮南牛肉汤", "phen": "Huáinán niúròu tāng", "trans": "Суп с говядиной из Хуайнани", "pict": "/images/anhuiFood3.png"},
+        {"char": "曹操鸡", "phen": "Cáo Cāo jī", "trans": "Курица по рецепту Цао Цао", "pict": "/images/anhuiFood4.png"},
+        {"char": "毛豆腐", "phen": "Máo dòufu", "trans": "Волосатый тофу", "pict": "/images/anhuiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "黄山", "phen": "Huángshān", "trans": "Горы Хуаншань", "pict": "/images/anhuiSights1.png"},
+        {"char": "淮河路步行街", "phen": "Huái Hé Lù Bùxíng Jiē", "trans": "Пешеходная улица Хуайхэлу", "pict": "/images/anhuiSights2.png"},
+        {"char": "三河古镇", "phen": "Sānhé Gǔzhèn", "trans": "Древний город Саньхэ", "pict": "/images/anhuiSights3.png"},
+        {"char": "逍遥津公园", "phen": "Xiāoyáojīn Gōngyuán", "trans": "Парк Сяояоцзинь", "pict": "/images/anhuiSights4.png"},
+        {"char": "宏村", "phen": "Hóngcūn", "trans": "Деревня Хунцунь", "pict": "/images/anhuiSights5.png"},
+        {"char": "九华山", "phen": "Jiǔhuà Shān", "trans": "Гора Цзюхуашань", "pict": "/images/anhuiSights6.png"},
+        {"char": "天堂寨", "phen": "Tiāntángzhài", "trans": "Ущелье Тяньтан", "pict": "/images/anhuiSights7.png"}
+      ]
+    },
+    "zhejiang": {
+      "name": {
+        "province": "Провинция Чжэцзян",
+        "city": "浙江省 Zhèjiāng Shěng",
+        "name": "Zhejiang",
+        "nameRu": "Чжэцзян"
+      },
+      "info": "<p>Провинция <b>Чжэцзян</b> расположена на восточном побережье Китая. Название «Чжэцзян» 浙江 означает «извилистая река» и происходит от реки Цяньтан 钱塘江 Qiántáng Jiāng, известной своим знаменитым приливным бором «Серебряный дракон». Рельеф провинции характеризуется сочетанием горных цепей (около 70% территории), плодородных равнин и более 3 000 островов вдоль побережья Восточно-Китайского моря.</p><p>Чжэцзян обладает влажным субтропическим климатом с чётко выраженными сезонами. Лето (июнь–август) жаркое (+28–35°C) и дождливое, зима (декабрь–февраль) мягкая (+5-10°C), но сырая. Весна (апрель–май) – идеальное время для посещения, когда цветут чайные плантации и персиковые сады.</p><p>Горные районы провинции покрыты бамбуковыми лесами и вечнозелёными широколиственными деревьями. Официальный цветок провинции — орхидея, дерево — камфорное дерево.Фауна провинции типична для субтропической лесной зоны.</p><p>Исторические фактыЧжэцзян – колыбель неолитической культуры Хэмуду 河姆渡文化 Hémǔdù wénhuà 5000 до н.э., где впервые в Китае начали выращивать рис. В средние века провинция стала центром шёлковой промышленности и чайной торговли.</p><p>Столица Чжэцзян 浙江 - <b>Ханчжоу 杭州 Hángzhōu</b><br>Столица провинции Ханчжоу 杭州 Hángzhōu раскинулась между озером Сиху 西湖 Xī Hú и рекой Цяньтан. Город окружают чайные плантации Лунцзин 龙井茶园 Lóngjǐng cháyuán и холмы Тяньму 天目山 Tiānmù Shān.</p><p>Благодаря микроклимату озера Сиху, в Ханчжоу на 2–3°C прохладнее, чем в соседних городах летом. Зимой часты туманы, вдохновлявшие художников эпохи Сун.</p><p>Исторические факты:<br> Бывшая столица империи Южная Сун (1127–1279), Ханчжоу сохранил:<ul><li>Пагоду Лэйфэн (雷峰塔, Léifēng Tǎ) – символ легенды о Белой Змее</li><li>Храм Линъинь (灵隐寺, Língyǐn Sì) – один из самых значимых буддийских центров Китая</li><li>Мост через реку Цяньтан (钱塘江大桥, Qiántáng Jiāng Dàqiáo) – первый двухъярусный мост, спроектированный китайскими инженерами (1937)</li></ul></p><p>Сегодня Ханчжоу – это мировой центр цифровых технологий (штаб-квартира Alibaba) и образец экологичного урбанизма – 47% территории покрыто зеленью</p>",
+      "links": {
+        "pictmap": "/images/zhejiang.png",
+        "food": "/province/zhejiang/food",
+        "sights": "/province/zhejiang/sights"
+      },
+      "foodLinks": {
+        "test": "/province/zhejiang/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/zhejiang/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/zhejiang/foodTest",
+        "location": "/province/zhejiang/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/zhejiang/sightsTest",
+        "location": "/province/zhejiang/location"
+      },
+      "vocabFood": [
+        {"char": "西湖醋鱼", "phen": "Xīhú cù yú", "trans": "Кисло-сладкая рыба из озера Сиху", "pict": "/images/zhejiangFood1.png"},
+        {"char": "东坡肉", "phen": "Dōngpō ròu", "trans": "Тушеная свинина Дунпо", "pict": "/images/zhejiangFood2.png"},
+        {"char": "冰糖甲鱼", "phen": "Bīngtáng jiǎyú", "trans": "Черепаха в сахарном сиропе", "pict": "/images/zhejiangFood3.png"},
+        {"char": "雪菜大汤黄鱼", "phen": "Xuěcài dà tāng huángyú", "trans": "Суп из желтого горбыля с консервированными кореньями горчицы", "pict": "/images/zhejiangFood4.png"},
+        {"char": "龙井虾仁", "phen": "Lóngjǐng xiārén", "trans": "Креветки Лунцзин", "pict": "/images/zhejiangFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "西湖", "phen": "Xī Hú", "trans": "Озеро Сиху", "pict": "/images/zhejiangSights1.png"},
+        {"char": "龙井茶园", "phen": "Lóngjǐng cháyuán", "trans": "Чайные плантации Лунцзин", "pict": "/images/zhejiangSights2.png"},
+        {"char": "乌镇", "phen": "Wūzhèn", "trans": "Древний город Учжэнь", "pict": "/images/zhejiangSights3.png"},
+        {"char": "普陀山", "phen": "Pǔtuó Shān", "trans": "Гора Путошань", "pict": "/images/zhejiangSights4.png"},
+        {"char": "安吉竹海", "phen": "Ānjí Zhúhǎi ", "trans": "Бамбуковый лес Аньцзи", "pict": "/images/zhejiangSights5.png"},
+        {"char": "中国丝绸博物馆", "phen": "Zhōngguó Sīchóu Bówùguǎn", "trans": "Музей шелка в Ханчжоу", "pict": "/images/zhejiangSights5.png"},
+        {"char": "天台山", "phen": "Tiāntāi Shān", "trans": "Гора Тяньтай", "pict": "/images/zhejiangSights5.png"},
+        {"char": "雁荡山", "phen": "Yàndàng Shān", "trans": "Горы Яньданшань", "pict": "/images/zhejiangSights5.png"},
+        {"char": "月亮湾广场", "phen": "Yuèliàng Wān Guǎngchǎng", "trans": "Площадь Лунного залива", "pict": "/images/zhejiangSights5.png"}
+      ]
+    },
+    "shanghai": {
+      "name": {
+        "province": "Город центрального подчинения Шанхай",
+        "city": "上海市 Shànghǎi Shì",
+        "name": "Shanghai",
+        "nameRu": "Шанхай"
+      },
+      "info": "<p>Название <b>Шанхая 上海</b> впервые появилось в XI веке во времена династии Сун, когда на месте слияния рек Янцзы и Хуанпу уже существовало поселение. Составленное из иероглифов 上 (\"верх\", \"на\") и 海 (\"море\"), это название на местном диалекте произносится как \"Занхэ\" (/zɑ̃.'he/).</p><p>Существует несколько трактовок значения названия. Официальная китайская историография интерпретирует его как \"верховья моря\" или \"взморье\" (海之上洋). Другие исследователи предлагают альтернативные варианты: в северных диалектах название может означать \"выходящий в море\", что логично для портового города, а поэтическое прочтение в обратном порядке 海上 даёт значение \"город на море\". Эти разночтения отражают богатство китайского языка и продолжают вызывать дискуссии среди лингвистов, но все варианты подчёркивают ключевую особенность Шанхая - его приморское расположение и связь с водными путями.</p><p>Шанхай 上海 Shànghǎi расположен в дельте реки Янцзы 长江 Cháng Jiāng на восточном побережье Китая. Город занимает стратегическое положение между северной и южной частями страны, с общей площадью 6,340 км², включая остров Чунмин 崇明岛 Chóngmíng Dǎo - третий по величине остров Китая.</p><p>Шанхай обладает влажным субтропическим климатом с четырьмя четко выраженными сезонами. Средняя температура летом составляет 28-32°C с высокой влажностью, а зимой - 3-8°C. Весенний сезон дождей с мая по июнь и частые тайфуны в августе-сентябре являются характерными особенностями местного климата.</p><p>В городской черте сохранились уникальные экосистемы, \"Шанхайский национальный природный заповедник птиц Чунмин Дунтань\" \"崇明东滩鸟类国家级自然保护区\" обитает 290 видов птиц, включая находящихся под угрозой исчезновения black-faced spoonbill 黑脸琵鹭 hēiliǎn pílù. В парках преобладают платаны 法国梧桐 fàguó wútóng, посаженные в колониальный период, и османтусы 桂花 guìhuā - символ города.</p><p>Исторические факты:<br>Шанхай начал свою историю как рыбацкая деревня в эпоху династии Сун. Городской статус он получил в 1553 году после строительства защитных стен от пиратских набегов.Настоящий расцвет начался в 1842 году, когда Шанхай стал открытым портом по Нанкинскому договору (после Опиумной войны). В городе появились иностранные концессии (британская, французская, американская), превратившие его к 1920-м годам в «Восточную жемчужину» с уникальным смешением архитектурных стилей и культур. После периода упадка в середине XX века, с 1990-х годов Шанхай пережил феноменальное возрождение. Район Пудун, бывший сельской местностью, превратился в современный деловой центр с небоскрёбами, включая 632-метровую Шанхайскую башню (самое высокое здание в Китае). Проведение Экспо-2010 окончательно закрепило статус города как глобального мегаполиса. Сегодня Шанхай гармонично сочетает колониальное наследие Бунда (набережная с историческими зданиями) с ультрасовременной архитектурой, оставаясь важнейшим экономическим и культурным центром Азии.</p>",
+      "links": {
+        "pictmap": "/images/shanghai.png",
+        "food": "/province/shanghai/food",
+        "sights": "/province/shanghai/sights"
+      },
+      "foodLinks": {
+        "test": "/province/shanghai/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/shanghai/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/shanghai/foodTest",
+        "location": "/province/shanghai/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/shanghai/sightsTest",
+        "location": "/province/shanghai/location"
+      },
+      "vocabFood": [
+        {"char": "八宝鸭", "phen": "Bābǎo yā", "trans": "Утка с восемью сокровищами", "pict": "/images/shanghaiFood1.png"},
+        {"char": "腌笃鲜", "phen": "Yān dǔ xiān", "trans": "Свиной суп с бамбуком/ \"Яньдосянь\"", "pict": "/images/shanghaiFood2.png"},
+        {"char": "排骨年糕", "phen": "Páigǔ niángāo", "trans": "Свиные рёбрышки с клёцками из клейкого риса", "pict": "/images/shanghaiFood3.png"},
+        {"char": "阳春面", "phen": "Yángchūn miàn", "trans": "Янчуньмянь", "pict": "/images/shanghaiFood4.png"},
+        {"char": "南翔小笼", "phen": "Nánxiáng xiǎolóng", "trans": "Сяолунбао из Наньсяна", "pict": "/images/shanghaiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "外滩", "phen": "Wàitān", "trans": "Набережная Вайтань", "pict": "/images/shanghaiSights1.png"},
+        {"char": "东方明珠塔", "phen": " Dōngfāng Míngzhū Tǎ", "trans": "Телебашня \"Восточная жемчужина\"", "pict": "/images/shanghaiSights2.png"},
+        {"char": "豫园", "phen": "Yù Yuán", "trans": "Сад Юйюань", "pict": "/images/shanghaiSights3.png"},
+        {"char": "田子坊", "phen": "Tiánzǐfāng", "trans": "Район Тяньцзыфан", "pict": "/images/shanghaiSights4.png"},
+        {"char": "城隍庙", "phen": "Chénghuáng Miào", "trans": "Храм городского бога", "pict": "/images/shanghaiSights5.png"},
+        {"char": "玉佛寺", "phen": "Yùfó Sì", "trans": "Храм Нефритового Будды", "pict": "/images/shanghaiSights6.png"},
+        {"char": "南京路", "phen": "Nánjīng Lù", "trans": "Нанкинская улица", "pict": "/images/shanghaiSights7.png"},
+        {"char": "上海迪士尼乐园", "phen": "Shànghǎi Díshìní Lèyuán", "trans": "Шанхайский Диснейленд", "pict": "/images/shanghaiSights8.png"},
+        {"char": "浦东美术馆", "phen": "Pǔdōng Měishùguǎn", "trans": "Музей искусств Пудуна", "pict": "/images/shanghaiSights9.png"},
+        {"char": "上海博物馆", "phen": "Shànghǎi Bówùguǎn", "trans": "Шанхайский музейв", "pict": "/images/shanghaiSights10.png"}
+      ]
+    },
+    "jiangsu": {
+      "name": {
+        "province": "Провинция Цзянсу",
+        "city": "江苏省 Jiāngsū Shěng",
+        "name": "Jiangsu",
+        "nameRu": "Цзянсу"
+      },
+      "info": "<p>Название провинции <b>Цзянсу 江苏</b> образовано от сочетания первых иероглифов двух ключевых городов: Цзяннин 江宁, древнее название Нанкина, и Сучжоу 苏州. Это административное объединение было официально закреплено в период правления династии Цин (1644-1912), когда создавалась современная система провинциального деления Китая. Иероглиф 江 jiāng означает \"река\", прежде всего подразумевая Янцзы, а 苏 sū - \"пробуждение\" или сокращение от Сучжоу. Вместе они символизируют процветание региона, исторически одного из самых развитых в Китае благодаря плодородным землям и водным путям.</p><p> Цзянсу 江苏 расположена в восточной части Китая, в дельте реки Янцзы 长江 Cháng Jiāng. Провинция омывается Жёлтым морем 黄海 Huáng Hǎi на востоке и граничит с Шанхаем на юго-востоке. Её ландшафт – это равнины, пересечённые многочисленными реками и озёрами, включая озеро Тайху 太湖, Tài Hú, третье по величине пресноводное озеро Китая. Из всех провинций Китая Цзянсу имеет самый высокий процент внутренних вод.</p><p>Провинция обладает умеренным муссонным климатом с четырьмя чёткими сезонами. Лето влажное и жаркое (+28–35°C), зима прохладная (+1–6°C), но без сильных морозов. Весна (апрель–май) – лучшее время для посещения, когда цветут персиковые сады и начинается сбор чая Би Ло Чунь 碧螺春 Bì Luó Chūn.</p><p>Фауна провинции Цзянсу разнообразна и имеет значительное экономическое значение. Рыба, утки, крабы и креветки являются важными источниками пищи. Цзянсу является главным в Китае местом лова речных крабов, угрей.</p><p>Исторические факты:<ul><li>Цзянсу - один из древнейших культурных центров Китая с 2500-летней историей. В эпоху Вёсен и Осеней 春秋时期 Chūnqiū shíqī, 771-476 гг. до н.э., здесь процветали царства У 吴 Wú и Юэ 越 Yuè, оставившие после себя такие артефакты, как легендарный меч Гоуцзяня 越王勾践剑 Yuèwáng Gōujiàn jiàn, обнаруженный в 1965 году.</li><li>В период династии Сун 宋朝 Sòngcháo, 960-1279, регион превратился в мировой центр шелководства, а Сучжоу 苏州 Sūzhōu и Нанкин 南京 Nánjīng стали ключевыми узлами Великого Шёлкового пути 丝绸之路 Sīchóu zhī lù. Именно здесь Марко Поло описывал \"города, превосходящие по богатству все западные столицы\".</li><li>Особого расцвета Цзянсу достиг при династии Мин 明朝 Míngcháo, 1368-1644:<ul><li>Нанкин служил первой столицей империи</li><li>В Сучжоу создавались знаменитые классические сады 苏州园林, Sūzhōu yuánlín, ныне объекты ЮНЕСКО</li><li>Школа живописи \"У\" 吴门画派 Wúmén huàpài оказала влияние на всё китайское искусство</li></ul></li><li>Переломным моментом XIX века стало подписание Нанкинского договора 1842 года, открывшего Шанхай 上海 Shànghǎi для международной торговли и изменившего экономику региона.</li></ul></p><p><b>Столица Цзянсу 江苏 - Нанкин 南京市, Nánjīng Shì</b>.<br> Нанкин 南京 буквально означает \"Южная столица\". Это название город получил в 1421 году, когда император Юнлэ перенес столицу в Пекин \"Северная столица\". Ранее город назывался Цзяннин 江宁 Jiāngníng - \"Покой у реки\" и Цзиньлин 金陵 Jīnlíng - \"Золотой холм\". «Южная столица» раскинулся в юго-восточном Китае, в живописной долине на берегах реки Янцзы, которая протекает через город с юго-запада на северо-восток. Одно из красивых мест города - пурпурные горы 紫金山 Zǐjīn Shān, достигающие высоты 448 метров. Они покрыты густыми хвойными и широколиственными лесами с бамбуковыми рощами, и озёро Сюаньуху 玄武湖 Xuánwǔ Hú, создающее живописный ландшафт. В городских парках цветут сакура, магнолия и гибискус. Особой гордостью являются традиционные китайские растения — пионы, лотосы и хризантемы.</p><p>Фауна Нанкина отличается разнообразием благодаря сочетанию горных и равнинных территорий, например утки-мандаринки 曼鸠, енотовидные собаки 狐猴 и другие.</p><p>Исторические факты <ul><li> Нанкин — единственный город Китая, бывший столицей 10 различных династий и государств. Его \"золотой век\" наступил в эпоху Мин 明朝, Míngcháo, когда император Чжу Юаньчжан 朱元璋 Zhū Yuánzhāng построил крупнейшую городскую стену (35 км, сохранилось 25 км), основал первый государственный университет Гоцзыцзянь 国子监 Guózǐjiàn и разработал градостроительный план, повлиявший на Пекин.</li><li> В 1853-1864 годах Нанкин стал столицей необычного Тайпинского государства 太平天国 Tàipíng Tiānguó, где отменили частную собственность, давали женщинам воинские звания и печатали первые китайские газеты. Трагическим событием стала Нанкинская резня 1937 года 南京大屠杀 Nánjīng dàtúshā, унесшая жизни 300 тысяч мирных жителей, память о которой хранит мемориальный комплекс 侵华日军南京大屠杀遇难同胞纪念馆.</li><li> В 1912 году именно в Нанкине Сунь Ятсен 孙中山 Sūn Zhōngshān провозгласил Китайскую Республику 中华民国 Zhōnghuá Mínguó, а в 1927-1949 годах город вновь стал столицей, о чём напоминает Мавзолей Сунь Ятсена с 392 ступенями, которые символизируют 392 млн граждан Китая того времени и бывший президентский дворец с уникальным смешением китайских и европейских архитектурных стилей.</li></ul></p>",
+      "links": {
+        "pictmap": "/images/jiangsu.png",
+        "food": "/province/jiangsu/food",
+        "sights": "/province/jiangsu/sights"
+      },
+      "foodLinks": {
+        "test": "/province/jiangsu/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/jiangsu/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/jiangsu/foodTest",
+        "location": "/province/jiangsu/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/jiangsu/sightsTest",
+        "location": "/province/jiangsu/location"
+      },
+      "vocabFood": [
+        {"char": "鸭血粉丝煲", "phen": "Yā xiě fěnsī bāo", "trans": "Суп с утиной кровью и вермишелью", "pict": "/images/jiangsuFood1.png"},
+        {"char": "扬州炒饭", "phen": "Yángzhōu chǎofàn", "trans": "Жареный рис по-янчжоуски", "pict": "/images/jiangsuFood2.png"},
+        {"char": "苏州松鼠鳜鱼", "phen": "Sūzhōu sōngshǔ guìyú", "trans": "\"Рыба-белка\" по-сучжоуски", "pict": "/images/jiangsuFood3.png"},
+        {"char": "南京盐水鸭", "phen": "Nánjīng yánshuǐ yā", "trans": "Нанкинская солёная утка", "pict": "/images/jiangsuFood4.png"},
+        {"char": "盱眙十三香龙虾", "phen": "Xūyí shísān xiāng lóngxiā", "trans": "Раки с 13 специями по-сюйиски", "pict": "/images/jiangsuFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "中山陵", "phen": "Zhōngshān Líng", "trans": "Мавзолей Сунь Ятсена", "pict": "/images/jiangsuSights1.png"},
+        {"char": "南京大屠杀纪念馆", "phen": "Nánjīng Dàtúshā Jìniànguǎn", "trans": "Мемориал Нанкинской резни", "pict": "/images/jiangsuSights2.png"},
+        {"char": "拙政园", "phen": "Zhuōzhèng Yuán", "trans": "Сад Скромного Чиновника", "pict": "/images/jiangsuSights3.png"},
+        {"char": "鼋头渚", "phen": "Yuántóuzhǔ", "trans": "\"Остров Черепахи\"/\"Юаньтоучжу\"", "pict": "/images/jiangsuSights4.png"},
+        {"char": "灵山大佛", "phen": "Língshān Dàfó", "trans": "Будда Линшань", "pict": "/images/jiangsuSights5.png"},
+        {"char": "狮子林", "phen": "Shīzi Lín", "trans": "Сад Львиной Рощи", "pict": "/images/jiangsuSights6.png"},
+        {"char": "平江路", "phen": "Píngjiāng Lù", "trans": "Улица Пинцзян", "pict": "/images/jiangsuSights7.png"}
+      ]
+    },
+    "henan":{
+      "name": {
+        "province": "Провинция Хэнань",
+        "city": "河南省 Hénán Shěng",
+        "name": "Henan",
+        "nameRu": "Хэнань"
+      },
+      "info": "<p>Название <b>Хэнань 河南 Hénán</b> означает \"юг реки\", это связано с Желтой рекой 黄河 Huánghé, которая веками определяла её ландшафт и развитие.</p> <p>Провинция расположенна в центральном Китае. Хэнань 河南 представляет собой удивительное сочетание ландшафтов - от плодородных равнин, занимающих половину территории, до горных цепей Тайханшань 太行山 на севере и горный массив Дабешань 大别山 Dàbiéshān, протянувшийся вдоль южной границы провинции. Провинцию питают воды не только Хуанхэ 黄河, но и других важных рек - Хуайхэ 淮河 Huáihé  и Ханьшуй 汉水 Hànshǔi.</p> <p>Этот разнообразный рельеф способствует континентальному климату с жарким влажным летом (средняя температура +25–28°C) и холодной сухой зимой (около 0–5°C). Осадки в основном выпадают в муссонный сезон с июня по август, обеспечивая благоприятные условия для сельского хозяйства.</p> <p>В Хэнани обитает более 400 видов сухопутных позвоночных, что составляет около 20% от общего биоразнообразия Китая. Среди типичных представителей: Исполинская саламандра 大鲵 dà ní, горал 斑羚 bān líng, леопард 豹 bào, беркут 金雕 jīn diāo, макака 猕猴 mí hóu, лебедь 天鹅 tiān'é. Особую ценность представляет кулик-лопатень 琵嘴鹬 pí zuǐ yù (лат. Eurynorhynchus pygmeus) - вид под охраной первого уровня в Китае и внесённый в Красную книгу МСОП как находящийся под критической угрозой.</p> <p><b>Исторические факты</b><br></p> <p>Хэнань по праву считается колыбелью китайской цивилизации, где зарождались первые государственные образования. Именно здесь находились столицы трех древнейших династий: Ся 夏朝 Xiàcháo (2070 - 1600 до н.э.) с руинами в Эрлитоу 二里头 Èrlǐtóu, Шан 商朝 Shāngcháo (1600 - 1046 до н.э.) с археологическим комплексом Иньсюй 殷墟 Yīnxū, где были обнаружены первые гадательные кости с письменами 甲骨文 jiǎgǔwén, и Чжоу 周朝 Zhōucháo (1046 - 256 до н.э.) с её культурным центром в Лояне 洛阳 Luòyáng (этот город является одним из четырёх древних столиц Китая). В эпоху Хань 汉朝 Hàncháo (206 г. до н.э. - 220 г. н.э.) регион стал важным узлом Великого Шёлкового пути 丝绸之路 Sīchóu zhī lù. Именно в Хэнани в 68 году н.э. был построен первый в Китае буддийский храм Белой Лошади или Баймасы 白马寺 Báimǎ Sì, что положило начало распространению буддизма в Поднебесной.Особое место в истории провинции занимает Кайфэн 开封 Kāifēng, который служил столицей во время правления династии Северная Сун 北宋朝 Běisòngcháo (960-1127). Этот период стал временем небывалого расцвета науки, искусства и городского планирования.Лоян 洛阳 Luòyáng, будучи столицей на протяжении 13 династий, сохранил статус важнейшего культурного центра. Здесь создавались литературные шедевры, развивались философские школы и хранились буддийские реликвии в гротах Лунмэнь.В средневековый период провинция превратилась в важный культурно-религиозный центр, где развивались шаолиньское кунг-фу 少林功夫 Shàolín gōngfū, формировались принципы неоконфуцианской философии 理学 Lǐxué, а также совершенствовалось производство знаменитого жучжоуского фарфора 汝瓷 Rǔcí. </p> <p>Столица Хэнань 河南 - <b>Чжэнчжоу 郑州市 Zhèngzhōu Shì</b>. Город формирует узел равнин с плодородными почвами, где флора включает более 1900 видов растений, от теплолюбивых лиственных лесов с дубами и орехами до лугов и садов в пригородах, дополняя провинциальный ландшафт.</p> <p>Климат здесь аналогичен провинциальному — континентальный с выраженными сезонами, но с чуть более умеренными температурами благодаря урбанизации, где лето достигает +28°C, а зима опускается до 0°C, с осадками сосредоточенными в дождливый период.</p> <p>Фауна города обобщает региональную, с акцентом на городские парки и близлежащие заповедники, где встречаются птицы вроде журавлей в заболоченных зонах Желтой реки и млекопитающие.</p> <p>Исторически Чжэнчжоу, основанный более 3600 лет назад, служил столицей ранних династий, включая Шан.Сегодня Чжэнчжоу - важный транспортный узел, национальный урбанистический центр и один из крупнейших мегаполисов Китая с населением более 5 млн человек.</p>",
+      "links": {
+        "pictmap": "/images/henan.png",
+        "food": "/province/henan/food",
+        "sights": "/province/henan/sights"
+      },
+      "foodLinks": {
+        "test": "/province/henan/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/henan/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/henan/foodTest",
+        "location": "/province/henan/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/henan/sightsTest",
+        "location": "/province/henan/location"
+      },
+      "vocabFood": [
+        {"char": "胡辣汤", "phen": "Húlà tāng", "trans": "остро-прянный суп", "pict": "/images/henanFood1.png"},
+        {"char": "道口烧鸡", "phen": "Dàokǒu shāojī", "trans": "Поджаренный на огне цыпленок \"Даокоу\"", "pict": "/images/henanFood2.png"},
+        {"char": "羊内烩面", "phen": "Yángròu huìmiàn", "trans": "\"Янжоу хуэймянь\"/ Лапша, подаваемая в густом бульоне из баранины с кусочками мяса", "pict": "/images/henanFood3.png"},
+        {"char": "河南杏仁茶", "phen": "Hénán xìngrén chá", "trans": "Хэнаньский миндальный чай", "pict": "/images/henanFood4.png"},
+        {"char": "三不沾", "phen": "Sān bù zhān", "trans": "«Три не прилипания»／ «Сань бу чжань»", "pict": "/images/henanFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "龙门石窟", "phen": "Lóngmén shíkū", "trans": "Лунмэньские пещеры", "pict": "/images/henanSights1.png"},
+        {"char": "白马寺", "phen": "Báimǎ Sì", "trans": "Храм Белой Лошади", "pict": "/images/henanSights2.png"},
+        {"char": "河南博物馆", "phen": "Hénán Bówùguǎn", "trans": "Музей Хэнани", "pict": "/images/henanSights3.png"},
+        {"char": "少林寺", "phen": "Shàolín Sì", "trans": "Монастырь Шаолинь", "pict": "/images/henanSights4.png"},
+        {"char": "云台山", "phen": "Yúntái Shān", "trans": "Гора Юньтайшань", "pict": "/images/henanSights5.png"}
+      ]
+    },
+    "shanxi":{
+      "name": {
+        "province": "Провинция Шаньси",
+        "city": "山西 Shānxī",
+        "name": "Shanxi",
+        "nameRu": "Шаньси"
+      },
+      "info": "<p>Провинция <b>Шаньси 山西 Shānxī</b> получила своё название благодаря географическому расположению. Иероглифы 山西 дословно переводится \"к западу от гор\", что указывает на положение к западу от горного хребта Тайханшань 太行山 Tàiháng shān.</p> <p>Шаньси расположена на Лёссовом плато 黄土高原 Huángtǔ gāoyuán, что придаёт её ландшафту характерные холмистые и террасированные формы. Здесь преобладают засушливые степи, но в горных районах сохранились хвойные леса, а вдоль рек произрастают тополя и ивы. Особую ценность представляют лекарственные растения, такие как астрагал 黄芪 huángqí и китайский лимонник 五味子 wǔwèizi. </p> <p>Климат умеренно-континентальный, с выраженной сезонностью. Лето короткое и жаркое, зима холодная и сухая, часто бывают песчаные бури. Среднегодовое количество осадков невелико (400–600 мм), что делает регион уязвимым к засухам.</p> <p>Провинция отличается разнообразной фауной, включающей более 140 видов млекопитающих и около 360 видов птиц. В горных районах обитают редкие животные, среди которых особое место занимают северокитайские леопарды 华北豹 huáběi bào, чёрные аисты 黑鹳 hēi guàn и хохлатые ибисы 朱鹮 zhū huán, находящиеся под охраной государства.</p> <p>На территории Шаньси 山西 Shānxī были обнаружены следы культуры Яншао 仰韶文化 Yǎngshāo wénhuà (V—II тыс. до н. э.). В эпоху династии Чжоу 周朝 Zhōu cháo (1046–256 годы до н. э.) эти земли стали важным политическим центром, здесь располагались столицы нескольких царств, в том числе царства Цзинь 晋国 Jìn guó. В V веке на территории провинции был возведён величественный храм Цзиньцы 晋祠 Jìn Cí. С течением времени регион продолжал развиваться. Особого упоминания заслуживает буддийский монастырь Шуанлинсы 双林寺 Shuānglín Sì с уникальными скульптурами эпохи династии Сун 宋朝 Sòng cháo, который стал одним из центров религиозной культуры. При династии Цин 清朝 Qīng cháo (1644–1912) Шаньси превратилась в важный промышленный центр, особенно в сфере добычи угля. Провинция славилась своими купцами, которые создали мощную торговую сеть и основали первые в Китае банки. Город Пинъяо 平遥 Píngyáo стал одним из крупнейших банковских центров страны, можно и сейчас посмотреть на таринные банковские дворцы 票号遗址 piàohào yízhǐ династии Цин 清朝.</p> <p><b>Столица Шаньси 山西 - Тайюань 太原市 Tàiyuánshì</b>Название Тайюань 太原 Tàiyuán означает «Великая равнина», отражая расположение города в долине реки Фэньхэ 汾河 Fén Hé. Впервые упоминается в VI веке до н.э. как столица государства Цзинь 晋 Jìn и носил название Цзиньян 晋阳 Jìnyáng, только при династии Цин 清朝 Qīng cháo получил современное название Тайюань. Или еще одно бывшее название Лонгченг 龙城 Lóngchéng. Такое название связано с тем, что на протяжении истории Тайюань был столицей или временной столицей многих династий Китая, что дало городу прозвище «Город Дракона». </p> <p>Город окружён горами с трёх сторон, что создаёт эффект естественной крепости. Расположен на реке Фэньхэ 汾河 Fénhé, в окрестностях преобладают хвойные леса.</p> <p>Тайюань отличается резко континентальным климатом, зимние температуры могут опускаться до –15°C, а летом достигать +35°C.</p> <p>В пригородных лесах водятся лисы 狐狸 húli, зайцы 野兔 yětù и др., а на водоёмах можно встретить некоторые редкие виды птиц.</p> <p>Тайюань - один из 24 исторических городов Китая. При династии Тан 唐朝 Táng cháo (618–907) город Тайюань 太原 Tàiyuán стал второй столицей империи и важным культурным центром. В XX веке город стал промышленным гигантом, но не потерял своего культурного наследия.</p>",
+      "links": {
+        "pictmap": "/images/shanxi.png",
+        "food": "/province/shanxi/food",
+        "sights": "/province/shanxi/sights"
+      },
+      "foodLinks": {
+        "test": "/province/shanxi/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/shanxi/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/shanxi/foodTest",
+        "location": "/province/shanxi/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/shanxi/sightsTest",
+        "location": "/province/shanxi/location"
+      },
+      "vocabFood": [
+        {"char": "刀削面", "phen": "Dāoxiāo miàn", "trans": "Лапша «Срезанная ножом»", "pict": "/images/shanxiFood1.png"},
+        {"char": "过油肉", "phen": "guòyóuròu", "trans": "«Варено-жареная свинина с грибами»", "pict": "/images/shanxiFood2.png"},
+        {"char": "平遥牛肉", "phen": "Píngyáo niúròu", "trans": "Солёная вяленая говядина из уезда Пинъяо", "pict": "/images/shanxiFood3.png"},
+        {"char": "碗托", "phen": "wǎntuō", "trans": "«Ваньто»", "pict": "/images/shanxiFood4.png"},
+        {"char": "黄糕", "phen": "huánggāo", "trans": "«Желтая лепёшка»", "pict": "/images/shanxiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "晋祠", "phen": "Jìn Cí", "trans": "Храмовый комплекс Цзиньцы", "pict": "/images/shanxiSights1.png"},
+        {"char": "五台山", "phen": "Wǔtái Shān", "trans": "Гора Утайшань", "pict": "/images/shanxiSights2.png"},
+        {"char": "悬空寺", "phen": "Xuánkōng Sì", "trans": "Висячий монастырь / Сюанькун-сы", "pict": "/images/shanxiSights3.png"},
+        {"char": "云冈石窟", "phen": "Yúngāng Shíkū", "trans": "Пещерные гроты Юньган", "pict": "/images/shanxiSights4.png"},
+        {"char": "山西博物院", "phen": "Shānxī Bówùyuàn", "trans": "Музей провинции Шаньси", "pict": "/images/shanxiSights5.png"},
+        {"char": "双林寺", "phen": "Shuānglín Sì", "trans": "Храм Шуанлиньсы", "pict": "/images/shanxiSights6.png"},
+        {"char": "平遥古城", "phen": "Píngyáo Gǔchéng", "trans": "Древний город Пинъяо", "pict": "/images/shanxiSights7.png"},
+        {"char": "广胜寺", "phen": "Guǎngshèng Sì", "trans": "Храм Гуаншэнсы", "pict": "/images/shanxiSights8.png"},
+        {"char": "小西天", "phen": "Xiǎoxītiān", "trans": "Храм Сяоситянь", "pict": "/images/shanxiSights9.png"},
+        {"char": "壶口瀑布", "phen": "Hǔkǒu Pùbù", "trans": "Водопад Хукоу", "pict": "/images/shanxiSights10.png"}
+
+      ]
+    },
+    "gansu":{
+      "name": {
+        "province": "Провинции Ганьсу",
+        "city": "甘肃省 Gānsù shěng",
+        "name": "Gansu",
+        "nameRu": "Ганьсу"
+      },
+      "info": "<p>Название провинции <b>Ганьсу 甘肃 Gānsù</b> возникло в результате объединения двух исторически значимых городов, располагавшихся на её территории. Оно образовано от первых иероглифов названий древних административных центров: Ганьчжоу 甘州 Gānzhōu, который сегодня соответствует району современного города Чжанъе 张掖 Zhāngyè, и Сучжоу 肃州 Sùzhōu, ныне входящего в состав города Цзюцюань 酒泉 Jiǔquán. Как и более ранние названия региона - Лунси 陇西 Lǒngxī «к западу от Лонга» и Лунъю 陇右 Lǒngyòu «право на Лонг», - имя «Ганьсу» отражает географическое положение провинции. Эти топонимы были связаны с горным хребтом Люпаньшань 六盘山 Liùpán shān, служившим естественной границей между восточным Ганьсу и западным Шэньси.Сегодня провинция Ганьсу сохраняет своё историко-географическое значение, оставаясь одним из ключевых регионов, через которые на протяжении веков пролегал Великий Шёлковый путь 丝绸之路 Sīchóu zhī lù. </p> <p>Ганьсу обладает невероятно разнообразным ландшафтом, протянувшись через горы, плато и пустыни. Здесь можно встретить снежные пики Циляньшань 祁连山 Qílián shān, песчаные дюны пустыни Гоби 戈壁沙漠 Gēbì shāmò и плодородные оазисы Хэсиского коридора 河西走廊 Héxī zǒuláng. Флора варьируется от альпийских лугов до пустынных кустарников, таких как саксаул 梭梭 suōsuō и верблюжья колючка 骆驼刺 luòtuo cì. В оазисах распространены тополя 杨树 yángshù и виноградники.</p> <p>Климат резко континентальный, с большими перепадами температур между днём и ночью, а также между сезонами. Лето теплое и часто сырое, зима суровая. Осадков выпадает мало, в основном в горных районах. В весенний период характерны пыльные бури.</p> <p>Фауна провинции Ганьсу отличается уникальным биоразнообразием благодаря разнообразию ландшафтов. Здесь обитают редкие виды, такие как дикий верблюд 野骆驼 yě luòtuo, снежный барс 雪豹 xuě bào. В горах Циляньшань встречаются благородные олени 马鹿 mǎlù, а в пустынных районах - ящерицы-круглоголовки 沙蜥 shāxī.</p> <p>Ганьсу на протяжении веков служила важнейшим коридором между Китаем и Центральной Азией. По её территории проходил Великий шёлковый путь 丝绸之路 Sīchóu zhī lù. В эпоху Хань здесь была построена часть Великой Китайской стены 长城 Chángchéng. Провинция также известна как место находки древних рукописей из Дуньхуана, имеющих мировое историческое значение.</p> <p><b>Столица Ганьсу 甘肃省 - Ланьчжоу 兰州市 Lánzhōu shì</b> Историческое название Ланьчжоу было 金城 Jīn chéng Золотой город, это произошло от обнаружения золота во время первоначального строительства города.В 583 году н.э., во времена династии Суй 隋朝 Suí cháo, округ Цзиньчэн был переименован в Ланьчжоу, происходящее от горы Гаолань 皋兰山 Gāolán shān, которая расположена в черте города. Иероглиф \"兰\" lán означает орхидею, красивый,  \"州\" zhōu - \"округ, город\", что вместе можно перевести, как \"красивый город\"</p> <p>Ланьчжоу раскинулся в долине реки Хуанхэ 黄河 Huáng hé, окружённый горами с севера и юга. Это один из немногих крупных городов, где Хуанхэ протекает через центр. В окрестностях города на склонах гор преобладает разнообразная растительность: от засухоустойчивых трав и кустарников в нижних частях до хвойных деревьев на возвышенностях.</p> <p>Ланьчжоу характеризуется умеренным полузасушливым континентальным климатом с ярко выраженными сезонными особенностями. Зима здесь холодная, со средней температурой около −7,3°C, хотя в особо суровые периоды температура может опускаться до -23,1°C. Лето не слишком жаркое, средняя температура около 22,4°C, при этом основная часть годовых осадков (около 328 мм) приходится именно на летний период.</p> <p>В городских парках Ланьчжоу обитают белки 松鼠 sōngshǔ и различные виды певчих птиц. В реке Хуанхэ водятся несколько видов рыб. В окрестностях города встречаются различные виды водоплавающих птиц.</p> <p>Ланьчжоу был единственным крупным городом на участке Великого Шелкового пути протяжённостью 1600 км. Здесь располагались одни из крупнейших рынков древнего Китая, где торговали шёлком, драгоценными камнями, нефритом, порохом и бумагой. Во время Второй японо-китайской войны (1937–1945) Ланьчжоу стал конечной точкой китайско-советского шоссе длиной 3200 км, по которому осуществлялись поставки из СССР. Сегодня Ланьчжоу - крупный промышленный и транспортный центр Китая, специализирующийся на нефтехимии, производстве промышленного оборудования, биофармацевтике и новых материалах. Город является важным транспортным узлом, соединяющим железнодорожные, автомобильные и воздушные пути сообщения. Также он является значимым образовательным центром с десятками высших учебных заведений, среди которых выделяется Университет Ланьчжоу - одно из ведущих учебных заведений страны.</p>",
+      "links": {
+        "pictmap": "/images/gansu.png",
+        "food": "/province/gansu/food",
+        "sights": "/province/gansu/sights"
+      },
+      "foodLinks": {
+        "test": "/province/gansu/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/gansu/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/gansu/foodTest",
+        "location": "/province/gansu/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/gansu/sightsTest",
+        "location": "/province/gansu/location"
+      },
+      "vocabFood": [
+        {"char": "兰州拉面", "phen": "Lánzhōu lāmiàn", "trans": "Ланьчжоуская лапша ручной работы", "pict": "/images/gansuFood1.png"},
+        {"char": "兰州糟肉", "phen": "Lánzhōu zāoròu", "trans": "Ланьчжоуская острая свинина", "pict": "/images/gansuFood2.png"},
+        {"char": "灰豆子", "phen": "Huī dòuzi", "trans": "Сладкий суп из чёрной фасоли с ячменём и финиками / \"Хуэйдоуцзы\"", "pict": "/images/gansuFood3.png"},
+        {"char": "雪山驼掌", "phen": "Xuěshān tuó zhǎng", "trans": "Верблюжий копыто снежной горы", "pict": "/images/gansuFood4.png"},
+        {"char": "陇西腊肉", "phen": "Lùnxī làròu", "trans": "Вяленая свинина из Луньси", "pict": "/images/gansuFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "莫高窟", "phen": "Mògāo kū", "trans": "Пещеры Могао", "pict": "/images/gansuSights1.png"},
+        {"char": "月牙泉", "phen": "Yuèyá quán", "trans": "Озеро Юэяцюань", "pict": "/images/gansuSights2.png"},
+        {"char": "张掖丹霞", "phen": "Zhāngyè Dānxiá", "trans": "Разноцветные скалы Чжанъе Данься", "pict": "/images/gansuSights3.png"},
+        {"char": "张掖马蹄寺", "phen": "Zhāngyè Mǎtí sì", "trans": "Храм Матисы в Чжанъе", "pict": "/images/gansuSights4.png"},
+        {"char": "武威文庙", "phen": "Wǔwēi wénmiào", "trans": "Храм Конфуция в Увэе", "pict": "/images/gansuSights5.png"},
+        {"char": "嘉峪关", "phen": "Jiāyù Guān", "trans": "Перевал Цзяюйгуань", "pict": "/images/gansuSights6.png"}
+      ]
+    },
+    "qinghai":{
+      "name": {
+        "province": "Провинции Цинхай",
+        "city": "青海省 Qīnghǎi Shěng",
+        "name": "Qinghai",
+        "nameRu": "Цинхай"
+      },
+      "info": "<p>Название провинции <b>Цинхай</b>, что означает «Лазурное море», происходит от названия второго по размерам бессточного горного солёного озера Центральной Азии - Цинхай 青海湖 Qīnghǎi Hú, которое монголы называют Кукунор.</p><p>Провинция расположена в западной части центрального Китая, на северо-восточной части Тибетского нагорья 青藏高原 Qīngzàng gāoyuán. Здесь возвышаются могучие горные хребты Куньлунь 昆仑山 Kūnlún shān и Тангла 唐古拉山 Tánggǔlā shān, формирующие уникальный горный ландшафт региона. Между этими величественными хребтами раскинулась впадина Цайдам 柴达木盆地 Cháidámù péndì, расположенная на высоте 2600-3100 метров.</p><p>Именно в суровых, но живописных горах Тибетского нагорья берут своё начало важнейшие реки Азии:  Янцзы 长江 Chángjiāng,  Хуанхэ 黄河 Huáng hé и  Меконг 湄公河 Méikōng hé.</p><p>Флора Цинхая адаптирована к высокогорным условиям, этот регион считается одним из ключевых центров биоразнообразия Азии. Среди интересных представителей флоры можно выделить, например, Allium chrysocephalum 折被韭 Shébèijiǔ и Родиола 红景天 Hóng jǐngtiān.</p><p> Климат Цинхая характеризуется как резко континентальный высокогорный, с исключительно низким содержанием кислорода в воздухе. Для региона типичны долгая суровая зима с морозами до -30°C и короткое прохладное лето, когда температура редко поднимается выше +20°C. Уровень солнечной радиации здесь один из самых высоких в Китае. Важно отметить, что климатические условия существенно различаются в зависимости от высоты над уровнем моря и географического положения в пределах провинции.</p><p>Фауна провинции включает уникальные виды, приспособленные к жизни в высокогорьях. Здесь обитают тибетские антилопы 藏羚羊 zàng língyáng, дикие яки 野牦牛 yě máoniú и ослы кианги 西藏野驴 xīzàng yèlǘ.</p><p>На озере Цинхай гнездятся тысячи мигрирующих птиц, включая черношейных журавлей 黑颈鹤 hēijǐng hè и горных гусей 斑头雁 bāntóu yàn, что делает это место важнейшим орнитологическим центром Азии.</p><p>История провинции Цинхай 青海省 Qīnghǎi shěng насчитывает несколько важных периодов. В 312 году племя сяньби-монголов основало здесь государство Тогон 吐谷浑 Tǔyùhún, которое существовало до 663 года.</p><p>Следующим важным этапом в истории региона стало время правления династии Цинь 秦朝 Qín cháo (221–206 гг. до н.э.). Археологические находки подтверждают присутствие этой династии - на берегу озера Гьяринг-Цо в Голог-Тибетском автономном округе были обнаружены уникальные наскальные надписи того периода, которые сохранились до наших дней и являются бесценным историческим наследием.</p><p>В XIII веке территория вошла в состав Монгольской империи. В середине XVII века сюда переселились люди из северной части Синьцзяна, известные как «кукунорские монголы».</p><p>В период Цинской империи земли Цинхая административно относились к провинции Ганьсу 甘肃省 Gānsù shěng. Современная провинция Цинхай была официально образована 1 января 1929 года решением правительства партии Гоминьдан.</p><p>Сегодня территория провинции представляет собой уникальный этнографический регион, где проживают представители различных народностей: ханьцы, тибетцы, хуэй и другие этнические группы, каждая из которых вносит свой неповторимый вклад в культурное наследие Цинхая.</p><p><b>Столица провинции Цинхай 青海省 - Синин 西宁市 Xīníng shì</b></p><p>Название Синин, означающее «Западное Спокойствие», отражает стратегическое расположение города на западных рубежах и роль города как опорного пункта в системе государственного управления.</p><p>Город расположен на восточной окраине Цинхайско-Тибетского плато 青藏高原 Qīngzàng gāoyuān на высоте около 2260 метров над уровнем моря, что делает его одной из самых высокогорных столиц провинций в Китае. Город уютно расположился вдоль берегов реки Хуаншуй 湟水 Huáng shuǐ. Современная городская среда Синина отличается высоким уровнем озеленения. В городе насчитывается более 124 парков и скверов, а площадь зелёных насаждений на душу населения достигает 13 квадратных метров.</p><p>Климат Синина характеризуется, как переходный между полузасушливым и влажным континентальным благодаря окружению гор и высоте расположения в 2260 метров над уровнем моря. Зимой температура опускается до -7,9°C (в январе), а летом поднимается до 17,5°C (в июле). Город отличается отсутствием как сильных морозов, так и изнуряющей жары, что создаёт комфортные условия для проживания.</p><p>Фауна Синина представляет собой уникальное сочетание городских и диких животных, приспособившихся к высокогорным условиям. В самом городе обитают многочисленные птицы — воробьинообразные, синицы, голуби. Миграционные пути птиц проходят непосредственно над городом, создавая уникальные возможности для орнитологических наблюдений.</p><p>История города Синин 西宁 берёт своё начало в 121 году до н. э., когда при империи Западная Хань 西汉 Xīhàn генерал Хо Цюйбин 霍去病 Huò Qùbìng основал здесь военный пост после победы над западными кочевниками.</p><p>В 222 году был построен первый укреплённый город.</p><p>Важным этапом развития стало возведение мощных крепостных стен при династии Мин 明朝 Míng cháo в 1386 году - их высота и толщина достигала 16 метров.</p><p>В 1929 году Синин стал административным центром новообразованной провинции Цинхай, а в 1945 году урбанизированная часть была выделена в отдельный город, что положило начало его современному развитию как крупного административного и культурного центра региона.",
+      "links": {
+        "pictmap": "/images/qinghai.png",
+        "food": "/province/qinghai/food",
+        "sights": "/province/qinghai/sights"
+      },
+      "foodLinks": {
+        "test": "/province/qinghai/foodTest",
+        "title": "Блюда 有名的美食",
+        "title2": ""
+      },
+      "sightsLinks": {
+        "test": "/province/qinghai/sightsTest",
+        "title": "Достопримечательности 名胜地方",
+        "title2": ""
+      },
+      "foodTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/qinghai/foodTest",
+        "location": "/province/qinghai/location"
+      },
+      "sightsTestLinks": {
+        "grammar": "/grammar",
+        "testVocab": "/province/qinghai/sightsTest",
+        "location": "/province/qinghai/location"
+      },
+      "vocabFood": [
+        {"char": "炕锅羊排", "phen": "Kàng guō yángpái", "trans": "Бараньи ребрышки в казане Кан", "pict": "/images/qinghaiFood1.png"},
+        {"char": "青海老八盘", "phen": "Qīnghǎi lǎo bā pán", "trans": "Восемь традиционных блюд Цинхая", "pict": "/images/qinghaiFood2.png"},
+        {"char": "青海三烧", "phen": "Qīnghǎi sān shāo", "trans": "Три жареных деликатеса из Цинхая", "pict": "/images/qinghaiFood3.png"},
+        {"char": "酿皮子", "phen": "Niàngpízi", "trans": "Нянпицзы", "pict": "/images/qinghaiFood4.png"},
+        {"char": "青稞甜醅", "phen": "Qīngkē tiánpēi", "trans": "Ячменный сладкий напиток", "pict": "/images/qinghaiFood5.png"}
+      ],
+      "vocabSights": [
+        {"char": "青海湖", "phen": "Qīnghǎi hú", "trans": "Озеро Цинхайху / Кукунор", "pict": "/images/qinghaiSights1.png"},
+        {"char": "塔尔寺", "phen": "Tǎ'ěr sì", "trans": "Монастырь Таэр / Кумьбумь", "pict": "/images/qinghaiSights2.png"},
+        {"char": "茶卡盐湖", "phen": "Chákǎ yán hú", "trans": "Соляное озеро Чака", "pict": "/images/qinghaiSights3.png"},
+        {"char": "东关清真大寺", "phen": "Dōngguān Qīngzhēn dà sì", "trans": "Монастырь Дунгуань", "pict": "/images/qinghaiSights4.png"},
+        {"char": "龙羊峡水库", "phen": "Lóngyángxiá shuǐkù", "trans": "Водохранилище Лунъянся", "pict": "/images/qinghaiSights5.png"},
+        {"char": "祁连卓尔山", "phen": "Qílián Zhuó'ěr shān", "trans": "Гора Чжоэр в Циляне", "pict": "/images/qinghaiSights6.png"},
+        {"char": "大柴旦翡翠湖", "phen": "Dàcháidàn fěicuì hú", "trans": "Нефритовое озеро Дачайдан", "pict": "/images/qinghaiSights7.png"},
+        {"char": "热贡艺术博物馆", "phen": "Règòng yìshù bówùguǎn", "trans": "Музей искусств Жэгун Танка", "pict": "/images/qinghaiSights8.png"},
+        {"char": "青海藏文化博物馆", "phen": "Qīnghǎi zàng wénhuà bówùguǎn", "trans": "Музей тибетской культуры провинции Цинхай", "pict": "/images/qinghaiSights9.png"}
+      ]
+    }
+}

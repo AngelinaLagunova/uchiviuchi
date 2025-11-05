@@ -1,0 +1,89 @@
+.locationHeader img {
+    width:80%;
+}
+
+.locationHeader {
+    display:grid;
+    width: 50vw;
+    grid-template-columns: 1fr 6fr;
+    align-items: center; 
+    justify-content: center;
+    font-size:1vw;
+
+}
+
+.sectionName{
+    text-align: center;
+    font-size: 2.5vw;
+    font-weight: bold;
+}
+
+article {
+    display:grid;
+    width: 98%;
+    grid-template-columns: 1fr 1fr;
+    margin-top:2vw;
+    /* border: 0.5vw solid lightgray; */
+    padding: 1.5vw;
+    border-radius:1vw;
+
+}
+
+.info {
+    /* background:rgb(255, 255, 255); */
+    /* padding: 2vw 2vw; */
+    font-style: Helvetica;
+    /* border-radius:20px; */
+    font-size: 1.6vw;
+}
+
+.reaadMoreButton > button{
+    width:100%;
+    height: 50px;
+}
+
+
+@media (max-width:600px)
+{
+    article
+    {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+
+
+    }
+    .locationHeader h1{
+        font-size: 4vw;
+    }
+
+    .wrap2 .button
+    {
+        min-width: 70vw;
+        font-size: 3vw;
+
+    }
+    .wrap2 .button2
+    {
+        min-width: 72vw;
+        font-size: 5vw;
+    }
+    .info 
+    {
+        width: 70vw;
+        font-size: 3vw;
+        margin: 2vw auto;
+    }
+    .sectionName
+    {
+        font-size:6vw;
+    }
+    .locationHeader
+    {
+        width:70vw;
+        font-size:2.4vw;
+
+    }
+}
+
+
+

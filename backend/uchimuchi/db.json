@@ -1,0 +1,316 @@
+[{
+    "model": "api.basevocab",
+    "pk": 1,
+    "fields": {
+        "char": "他", 
+        "phen": "tā", 
+        "trans": "он, его"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 2,
+    "fields": {
+        "char": "她", 
+        "phen": "tā", 
+        "trans": "она, её"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 3,
+    "fields": {
+        "char": "它", 
+        "phen": "tā", 
+        "trans": "оно"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 4,
+    "fields": {
+        "char": "他们", 
+        "phen": "tāmen", 
+        "trans": "они, их"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 5,
+    "fields": {
+        "char": "你", 
+        "phen": "nǐ", 
+        "trans": "ты"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 6,
+    "fields": {
+        "char": "您", 
+        "phen": "nín", 
+        "trans": "Вы, Ваш (вежливое обращение к одному лицу)"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 7,
+    "fields": {
+        "char": "你们", 
+        "phen": "nǐmen", 
+        "trans": "вы (множество лиц)"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 8,
+    "fields": {
+        "char": "我", 
+        "phen": "wǒ", 
+        "trans": "я"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 9,
+    "fields": {
+        "char": "我们", 
+        "phen": "wǒmen", 
+        "trans": "мы"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 10,
+    "fields": {
+        "char": "昨天", 
+        "phen": "zuótiān", 
+        "trans": "вчера"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 11,
+    "fields": {
+        "char": "今天", 
+        "phen": "jīntiān", 
+        "trans": "сегодня, нынче"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 12,
+    "fields": {
+        "char": "明天", 
+        "phen": "míngtiān", 
+        "trans": "завтра"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 13,
+    "fields": {
+        "char": "后天", 
+        "phen": "hòutiān", 
+        "trans": "послезавтра"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 14,
+    "fields": {
+        "char": "前天", 
+        "phen": "qiántiān", 
+        "trans": "позавчера"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 15,
+    "fields": {
+        "char": "去年", 
+        "phen": "qùnián", 
+        "trans": "прошлый год; в прошлом году"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 16,
+    "fields": {
+        "char": "新年", 
+        "phen": "xīnnián", 
+        "trans": "Новый год"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 17,
+    "fields": {
+        "char": "上年", 
+        "phen": "shàngnián", 
+        "trans": "прошлый год, в прошлом году"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 18,
+    "fields": {
+        "char": "点(菜)", 
+        "phen": "diǎn", 
+        "trans": "заказывать"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 19,
+    "fields": {
+        "char": "做", 
+        "phen": "zuò", 
+        "trans": "делать, изготавливать"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 20,
+    "fields": {
+        "char": "吃", 
+        "phen": "chī", 
+        "trans": "кушать"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 21,
+    "fields": {
+        "char": "买", 
+        "phen": "mǎi", 
+        "trans": "купить, покупать"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 22,
+    "fields": {
+        "char": "看", 
+        "phen": "kān", 
+        "trans": "смотреть (за кем-либо/чем-либо), любоваться чем-либо; читать"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 23,
+    "fields": {
+        "char": "想", 
+        "phen": "xiǎng", 
+        "trans": "думать, мыслить, намереваться, хотеть, ожидать, мечтать; тосковать, скучать; вспоминать"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 24,
+    "fields": {
+        "char": "菜", 
+        "phen": "cài", 
+        "trans": "овощи, зелень; блюдо"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 25,
+    "fields": {
+        "char": "票", 
+        "phen": "piào", 
+        "trans": "билет"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 26,
+    "fields": {
+        "char": "钱", 
+        "phen": "qián", 
+        "trans": "деньги, монетка"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 27,
+    "fields": {
+        "char": "辣", 
+        "phen": "là", 
+        "trans": "острый (вкус)"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 28,
+    "fields": {
+        "char": "甜", 
+        "phen": "tián", 
+        "trans": "сладкий (вкус)"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 29,
+    "fields": {
+        "char": "酸", 
+        "phen": "suān", 
+        "trans": "кислый (вкус); прокиснуть"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 30,
+    "fields": {
+        "char": "苦", 
+        "phen": "kǔ", 
+        "trans": "горький, горечь (вкус); тяжёлый, горький, горе"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 31,
+    "fields": {
+        "char": "饭馆", 
+        "phen": "fànguǎn", 
+        "trans": "кафе, столовая, ресторан"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 32,
+    "fields": {
+        "char": "喜欢", 
+        "phen": "xǐhuan", 
+        "trans": "нравиться"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 33,
+    "fields": {
+        "char": "好吃", 
+        "phen": "hǎochī, hàochī", 
+        "trans": "hǎochī вкусный, приятный на вкус; hàochī быть обжорой, любить поесть"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 34,
+    "fields": {
+        "char": "旅行", 
+        "phen": "lǚxíng", 
+        "trans": "путешествовать; путешествие, поездка"
+    }
+  },
+  {
+    "model": "api.basevocab",
+    "pk": 35,
+    "fields": {
+        "char": "中国", 
+        "phen": "zhōngguó", 
+        "trans": "Китай"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+
+.wrap, .wrap2 {
+display: grid;
+justify-content: center;
+margin: 3vw auto;
+margin-bottom: 0px;
+
+}
+
+.wrap .button{
+    min-height:4vw;
+
+}
+
+.wrap2 .button{
+    min-height:8vw;
+}
+
+
+
+
+.mainHeader {
+    font-size:10vw;
+    text-align:center;
+    display:grid;
+    margin:1vw auto;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+}
+
+@media (max-width:600px){
+
+    .mainHeader h1
+    {
+        font-size:6vw;
+    }
+    .wrap .button{
+        min-height:6vw;
+        font-size:5vw;
+    }
+}

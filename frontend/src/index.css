@@ -1,0 +1,126 @@
+body {
+    color: #140a12;
+    background: white;
+    font-family:Arial;
+    font-size:1vw;
+    margin-bottom: 5%;
+    /* accent-color: #b5f4e1; */
+  }
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.menu {
+    text-align: right;
+    font-size:20px;
+    /* width:50%; */
+}
+
+.bar{
+    font-size:50px;
+}
+
+nav a {
+    display: inline-block;
+    padding: 1% 5%;
+    /* color: #003153; */
+    color: #140a12;
+    text-align: right;
+    vertical-align: middle;
+
+    text-decoration: none;
+  }
+  /* @media (max-width: 800px) { */
+    /* nav a {
+      color: #afdafc;
+    }
+  } */ 
+  nav a:hover {
+    background: #e879df;
+  }
+
+  footer {
+    height: 5%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+  }
+  footer h4 {
+    padding: 5px;
+    /* color: #2e022b; */
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #41073c;
+    margin-bottom: 3vw;
+    
+  }
+  
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 10vw; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: rgb(214, 210, 210); /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* The navigation menu links */
+.sidenav a {
+    /* padding: 6px 8px 6px 16px; */
+    text-decoration: none;
+    font-size: 1.5vw;
+    color:  black;
+    display: block;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 3vw;
+    font-weight: bold;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color:  black;
+    background-color: lightgray;
+}
+
+.sidenav img {
+    display: grid;
+    width:50%;
+    margin-top: 1vh;
+
+}
+
+.page {
+    margin-left: 10vw; /* Same as the width of the sidenav */
+    padding: 0px 5vw;
+    margin-top:30px;
+    position: absolute;
+    width:80vw;
+}
+
+img {
+  margin: 0px auto;
+}
+
+.sidenav hr {
+    margin-top:3vw;
+    border: 0.3vw solid rgb(158, 156, 156);
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}

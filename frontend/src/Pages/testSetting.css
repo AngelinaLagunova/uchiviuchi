@@ -1,0 +1,26 @@
+.testSettingPage{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    width: 45vw;
+    row-gap:0vw;
+}
+
+
+.checkTestSetting{
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    font-size:3vw;
+    align-items: center;
+
+}
+
+.checkTestSetting img {
+    width: 3vw;
+}
+
+.startTestButton .button{
+    height: 8vw;
+    width:42vw;
+    font-size:2vw;
+    margin-top:2vw;
+}
