@@ -14,4 +14,4 @@ COPY . .
 # Открываем порт
 EXPOSE 8000
 
-CMD ["gunicorn", "your_project_name.wsgi:application", "--bind", "0.0.0.0:8000"]
+CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
