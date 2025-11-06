@@ -5,7 +5,7 @@ WORKDIR /app
 COPY uchimuchi/requirements.txt .
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-COPY . .
+COPY uchimuchi/ .
 
 # Выполняем миграции и собираем статику, если нужно
 # FOR Django static files, настроенного для сервера
