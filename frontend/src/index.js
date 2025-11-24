@@ -163,7 +163,6 @@ function createProvinceSidenavs(provinceKey, provinceData) {
     [{ href: sightsLinks.test || `/province/${slug}/sightsTest`, text: "Тест" }]
   );
 
-  console.log(provinceSidenav)
   return {
     [`${name}Sidenav`]: provinceSidenav,
     [`${name}FoodSidenav`]: provinceFoodSidenav,

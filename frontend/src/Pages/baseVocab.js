@@ -34,7 +34,6 @@ const BaseVocab = (props) => {
 
     const openModel = async (word) => {
         setSelectedWord(word);
-        console.log(selectedWord);
         setModalIsOpen(true);
     }
 
@@ -45,7 +44,6 @@ const BaseVocab = (props) => {
 
     //перелистывание на следующую карточку
     const nextGif = (event) =>{
-        console.log(numOfGif);
         if (numOfGif < props.gifs[selectedWord?.id - 1].length - 2){
             setNum(numOfGif + 1);
         }

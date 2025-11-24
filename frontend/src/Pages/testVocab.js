@@ -63,10 +63,8 @@ const TestVocab =(props) =>{
 
     const formSubmit =(e)=> {
         e.preventDefault();
-        console.log(selected);
 
         if (selected===props.words[numOfTest].rightVar){
-            console.log("right");
             document.getElementById("submitButton").classList.add("rightAnswer");
             document.getElementById("submitButton").classList.remove("wrongAnswer");
             document.getElementsByClassName("page")[0].classList.add("rightAnswerBg");
@@ -79,16 +77,13 @@ const TestVocab =(props) =>{
                 })
                 setAnsw(answers);
             }
-            console.log(answers);
            
 
         }
         else {
-            console.log("wrong");
             document.getElementById("submitButton").classList.add("wrongAnswer");
             document.getElementsByClassName("page")[0].classList.add("wrongAnswerBg");
 
-            console.log(selected);
             
             if (!(numOfTest in answers)) {
                 answers.push({
@@ -97,7 +92,6 @@ const TestVocab =(props) =>{
                 })
                 setAnsw(answers);
             }
-            console.log(answers);
 
 
         }

@@ -82,7 +82,6 @@ const Game1 = (props) => {
     const [numOfTest, setTestNum] = React.useState(0);
 
     const Next =(event)=>{
-        console.log(numOfTest);
         if (numOfTest < props.list.length - 1){
             setDroppedItems([]);
             let DropZone = document.getElementById("DropZone");
@@ -93,7 +92,6 @@ const Game1 = (props) => {
             document.getElementById("submitButton").classList.remove("rightAnswer");
         }
         else if(numOfTest === props.list.length) {
-            console.log("hi");
             setTestNum(numOfTest + 1);
         }
         else {
@@ -143,7 +141,6 @@ const Game1 = (props) => {
             sent += droppedItems[i].name;
         }
         if(sent === props.list[numOfTest][1]){
-            console.log("pass");
             document.getElementById("submitButton").classList.add("rightAnswer");
             document.getElementById("submitButton").classList.remove("wrongAnswer");
             document.getElementsByClassName("page")[0].classList.remove("wrongAnswerBg");
@@ -157,14 +154,10 @@ const Game1 = (props) => {
                 })
                 setAnsw(answers);
             }
-            console.log(answers);
         }
         else{
             document.getElementById("submitButton").classList.add("wrongAnswer");
             document.getElementsByClassName("page")[0].classList.add("wrongAnswerBg");
-            console.log("not pass");
-            console.log(sent);
-            console.log(props.list[numOfTest][1]);
             setRightAnswer(false);
 
             if (!(numOfTest in answers)) {

@@ -22,7 +22,6 @@ const PostSidenav = (props) =>{
                 nav.appendChild(innerA);
         
                 sidenav.appendChild(nav) ;
-                console.log(sidenav);
             }
             
             });

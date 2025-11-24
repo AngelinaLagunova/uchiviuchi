@@ -41,11 +41,9 @@ const words = [
     const [{ isOver }, drop] = useDrop(() => ({
       accept: ItemType,
       drop: (item) => {
-        // Проверяем, есть ли уже слово в этой области
         if ((!droppedWords[russianWord] || droppedWords[russianWord].length === 0) ) {
             onDrop(item);
         } else {
-            // Если в области уже есть слово, игнорируем новую попытку
             console.log(`В этой области уже есть слово: ${droppedWords[0]}`);
         }
     },
@@ -103,21 +101,18 @@ const Game2 = () => {
     const [dropItems, setDropItems] = React.useState(words.slice(0, 4).sort(() => Math.random() - 0.5))
 
     const Next =(event)=>{
-        console.log(numOfTest);
         if (numOfTest <words.length/4 - 1){
             setCheckPressed(false);
             setDropItems(words.slice((numOfTest + 1)*4, (numOfTest + 2)*4).sort(() => Math.random() - 0.5));
             setTestNum(numOfTest + 1);
         }
         else if(numOfTest === words.length/4) {
-            console.log("hi");
             setDropItems(words.slice((numOfTest + 1)*4, (numOfTest + 2)*4).sort(() => Math.random() - 0.5));
             setTestNum(numOfTest + 1);
             setCheckPressed(false);
         }
         else {
             setTestState(false)
-            console.log("nehi");
 
         }
     }
