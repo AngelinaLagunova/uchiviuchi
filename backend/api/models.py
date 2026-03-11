@@ -7,4 +7,4 @@ class BaseVocab(models.Model):
     trans = models.CharField(max_length=200)
 
     def __str__(self):
-        return self.char
+        return self.char + self.trans
