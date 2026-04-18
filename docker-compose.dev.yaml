@@ -1,26 +1,16 @@
-version: '3.8'
-
 services:
   backend:
     build: ./backend
-    container_name: django_api_dev
-    volumes:
-      - ./backend:/app
-    command: python manage.py runserver 0.0.0.0:8000
-    expose:
-      - "8000"
+    container_name: django_api
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=0
     restart: unless-stopped
 
   frontend:
     build: ./frontend
-    container_name: react_app_dev
+    container_name: react_app
     ports:
-      - "3000:3000" 
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules 
-    command: npm start
-    environment:
-      - CHOKIDAR_USEPOLLING=true 
-    depends_on:
-      - backend
+      - "80:80"
+    restart: unless-stopped
